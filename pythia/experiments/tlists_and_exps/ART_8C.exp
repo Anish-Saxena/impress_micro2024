@@ -1,0 +1,18 @@
+##############################################################
+##
+## This file contains all the experiments required
+## to reproduce four-core performance results of Pythia.
+##
+## Please follow the README to know how to use this file.
+## 
+## Owner: Rahul Bera (write2bera@gmail.com)
+##
+###############################################################
+
+
+# configurations
+BASE = --warmup_instructions=50000000 --simulation_instructions=200000000
+
+
+# Experiments for Figure 11(a)
+base                        $(BASE)

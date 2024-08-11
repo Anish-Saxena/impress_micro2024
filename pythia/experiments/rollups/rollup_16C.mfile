@@ -1,0 +1,23 @@
+CPU 0 cumulative IPC : sum
+CPU 1 cumulative IPC : sum
+CPU 2 cumulative IPC : sum
+CPU 3 cumulative IPC : sum
+CPU 4 cumulative IPC : sum
+CPU 5 cumulative IPC : sum
+CPU 6 cumulative IPC : sum
+CPU 7 cumulative IPC : sum
+CPU 8 cumulative IPC : sum
+CPU 9 cumulative IPC : sum
+CPU 10 cumulative IPC : sum
+CPU 11 cumulative IPC : sum
+CPU 12 cumulative IPC : sum
+CPU 13 cumulative IPC : sum
+CPU 14 cumulative IPC : sum
+CPU 15 cumulative IPC : sum
+LLC_AVG_MISS_LAT_CYCLES : sum
+CXL_READS_QDELAY_NS : sum
+CXL_WRITES_QDELAY_NS : sum
+CXL_RDBUS_UTILIZATION : sum
+CXL_WRBUS_UTILIZATION : sum
+CXL_RDBUS_CONGESTED : sum
+CXL_WRBUS_CONGESTED : sum

@@ -1,0 +1,119 @@
+NAME=649.fotonik3d_s-10881B_4T
+TRACE=$(PYTHIA_HOME)/traces/649.fotonik3d_s-10881B.champsimtrace.xz $(PYTHIA_HOME)/traces/649.fotonik3d_s-10881B.champsimtrace.xz $(PYTHIA_HOME)/traces/649.fotonik3d_s-10881B.champsimtrace.xz $(PYTHIA_HOME)/traces/649.fotonik3d_s-10881B.champsimtrace.xz
+KNOBS=
+
+NAME=605.mcf_s-994B_4T
+TRACE=$(PYTHIA_HOME)/traces/605.mcf_s-994B.champsimtrace.xz $(PYTHIA_HOME)/traces/605.mcf_s-994B.champsimtrace.xz $(PYTHIA_HOME)/traces/605.mcf_s-994B.champsimtrace.xz $(PYTHIA_HOME)/traces/605.mcf_s-994B.champsimtrace.xz
+KNOBS=
+
+NAME=619.lbm_s-3766B_4T
+TRACE=$(PYTHIA_HOME)/traces/619.lbm_s-3766B.champsimtrace.xz $(PYTHIA_HOME)/traces/619.lbm_s-3766B.champsimtrace.xz $(PYTHIA_HOME)/traces/619.lbm_s-3766B.champsimtrace.xz $(PYTHIA_HOME)/traces/619.lbm_s-3766B.champsimtrace.xz
+KNOBS=
+
+NAME=602.gcc_s-1850B_4T
+TRACE=$(PYTHIA_HOME)/traces/602.gcc_s-1850B.champsimtrace.xz $(PYTHIA_HOME)/traces/602.gcc_s-1850B.champsimtrace.xz $(PYTHIA_HOME)/traces/602.gcc_s-1850B.champsimtrace.xz $(PYTHIA_HOME)/traces/602.gcc_s-1850B.champsimtrace.xz
+KNOBS=
+
+NAME=620.omnetpp_s-141B_4T
+TRACE=$(PYTHIA_HOME)/traces/620.omnetpp_s-141B.champsimtrace.xz $(PYTHIA_HOME)/traces/620.omnetpp_s-141B.champsimtrace.xz $(PYTHIA_HOME)/traces/620.omnetpp_s-141B.champsimtrace.xz $(PYTHIA_HOME)/traces/620.omnetpp_s-141B.champsimtrace.xz
+KNOBS=
+
+NAME=603.bwaves_s-2931B_4T
+TRACE=$(PYTHIA_HOME)/traces/603.bwaves_s-2931B.champsimtrace.xz $(PYTHIA_HOME)/traces/603.bwaves_s-2931B.champsimtrace.xz $(PYTHIA_HOME)/traces/603.bwaves_s-2931B.champsimtrace.xz $(PYTHIA_HOME)/traces/603.bwaves_s-2931B.champsimtrace.xz
+KNOBS=
+
+NAME=654.roms_s-1007B_4T
+TRACE=$(PYTHIA_HOME)/traces/654.roms_s-1007B.champsimtrace.xz $(PYTHIA_HOME)/traces/654.roms_s-1007B.champsimtrace.xz $(PYTHIA_HOME)/traces/654.roms_s-1007B.champsimtrace.xz $(PYTHIA_HOME)/traces/654.roms_s-1007B.champsimtrace.xz
+KNOBS=
+
+NAME=607.cactuBSSN_s-2421B_4T
+TRACE=$(PYTHIA_HOME)/traces/607.cactuBSSN_s-2421B.champsimtrace.xz $(PYTHIA_HOME)/traces/607.cactuBSSN_s-2421B.champsimtrace.xz $(PYTHIA_HOME)/traces/607.cactuBSSN_s-2421B.champsimtrace.xz $(PYTHIA_HOME)/traces/607.cactuBSSN_s-2421B.champsimtrace.xz
+KNOBS=
+
+NAME=621.wrf_s-6673B_4T
+TRACE=$(PYTHIA_HOME)/traces/621.wrf_s-6673B.champsimtrace.xz $(PYTHIA_HOME)/traces/621.wrf_s-6673B.champsimtrace.xz $(PYTHIA_HOME)/traces/621.wrf_s-6673B.champsimtrace.xz $(PYTHIA_HOME)/traces/621.wrf_s-6673B.champsimtrace.xz
+KNOBS=
+
+NAME=628.pop2_s-17B_4T
+TRACE=$(PYTHIA_HOME)/traces/628.pop2_s-17B.champsimtrace.xz $(PYTHIA_HOME)/traces/628.pop2_s-17B.champsimtrace.xz $(PYTHIA_HOME)/traces/628.pop2_s-17B.champsimtrace.xz $(PYTHIA_HOME)/traces/628.pop2_s-17B.champsimtrace.xz
+KNOBS=
+
+NAME=627.cam4_s-573B_4T
+TRACE=$(PYTHIA_HOME)/traces/627.cam4_s-573B.champsimtrace.xz $(PYTHIA_HOME)/traces/627.cam4_s-573B.champsimtrace.xz $(PYTHIA_HOME)/traces/627.cam4_s-573B.champsimtrace.xz $(PYTHIA_HOME)/traces/627.cam4_s-573B.champsimtrace.xz
+KNOBS=
+
+NAME=623.xalancbmk_s-592B_4T
+TRACE=$(PYTHIA_HOME)/traces/623.xalancbmk_s-592B.champsimtrace.xz $(PYTHIA_HOME)/traces/623.xalancbmk_s-592B.champsimtrace.xz $(PYTHIA_HOME)/traces/623.xalancbmk_s-592B.champsimtrace.xz $(PYTHIA_HOME)/traces/623.xalancbmk_s-592B.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_184750M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_184750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_184750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_184750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_184750M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_26750M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_26750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_26750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_26750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_26750M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_24000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_24000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_24000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_24000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_24000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_21500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_21500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_21500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_21500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_21500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_32000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_32000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_32000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_32000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_32000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_25000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_25000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_25000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_25000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_25000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_22750M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_22750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_22750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_22750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_22750M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_21750M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_21750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_21750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_21750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_21750M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_7500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_7500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_7500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_7500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_7500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_21250M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_21250M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_21250M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_21250M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_21250M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.streamcluster.simlarge.prebuilt.drop_14750M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.streamcluster.simlarge.prebuilt.drop_14750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.streamcluster.simlarge.prebuilt.drop_14750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.streamcluster.simlarge.prebuilt.drop_14750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.streamcluster.simlarge.prebuilt.drop_14750M.length_250M.champsimtrace.xz
+KNOBS=

@@ -1,0 +1,16 @@
+8C_16W.json	8C_16WLLC	all	All figures
+8C_IDEAL_T256.json	8C_ideal_T256	single	All figures
+8C_IDEAL_T64.json	8C_ideal_T64	all	All figures
+8C_2b_T256.json	8C_2b_T256	single	Figure 6, 15
+8C_2b_T64.json	8C_2b_T64	all	Figure 6, 15, 16
+8C_1b_T256.json	8C_1b_T256	single	Figure 6 T256
+8C_1b_T64.json	8C_1b_T64	single	Figure 6 T64
+8C_16W_512GB.json	8C_16W_512GB	single	Figure 13 baseline
+8C_IDEAL_512GB_T256.json	8C_ideal_512GB_T256	single	Figure 13
+8C_IDEAL_512GB_T64.json	8C_ideal_512GB_T64	single	Figure 13
+8C_mm_T256.json	8C_mm_T256	single	Figure 13
+8C_mm_T64.json	8C_mm_T64	single	Figure 13
+8C_HYDRA_T64.186KB.json	8C_Hydra_T64.186KB	all	Figure 2, 16
+8C_HYDRA_T64_RG32_S1K.json	8C_Hydra_T64_RG32_S1K	all	Figure 2, 16
+8C_mm_lite_T64.json	8C_mm_lite_T64	all	Figure 16
+1C_16W.json	1C_16WLLC	all	Figure 16

@@ -1,0 +1,33 @@
+workload	start_d
+CF	0.121
+BC	0.073
+PageRank-D	0.065
+BFS-CC	0.082
+BFS	0.070
+Radii	0.063
+Triangle	0.062
+Components	0.062
+Comp-SC	0.062
+PageRank	0.063
+BFS-BV	0.062
+BellmanF	0.062
+MIS	0.062
+0	
+fotonik3D	0.500
+mcf	0.425
+gcc	0.062
+omnetpp	0.066
+bwaves	0.062
+roms	0.062
+cactuBSSN	0.063
+wrf	0.062
+pop2	0.060
+xalancbmk	0.057
+0	
+canneal	0.063
+fluidanimate	0.062
+raytrace	0.062
+facesim	0.060
+streamc	0.050
+0	
+ALL	0.094

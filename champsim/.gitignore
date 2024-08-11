@@ -1,0 +1,12 @@
+champsim/inc/champsim_constants.h
+champsim/inc/cache_modules.inc
+champsim/inc/ooo_cpu_modules.inc
+champsim/src/core_inst.cc
+champsim/.champsimconfig_cache
+champsim/./Makefile
+champsim/bin/
+champsim/obj/
+champsim/**/*.o
+champsim/**/*.d
+champsim/tracer/pin/obj-intel64/
+

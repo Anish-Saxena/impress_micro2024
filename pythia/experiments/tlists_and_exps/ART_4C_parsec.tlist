@@ -1,0 +1,19 @@
+NAME=parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.streamcluster.simlarge.prebuilt.drop_0M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.streamcluster.simlarge.prebuilt.drop_0M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.streamcluster.simlarge.prebuilt.drop_0M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.streamcluster.simlarge.prebuilt.drop_0M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.streamcluster.simlarge.prebuilt.drop_0M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz
+KNOBS=

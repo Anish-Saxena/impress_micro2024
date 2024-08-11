@@ -1,0 +1,51 @@
+NAME=ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_4000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_4000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_4000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_4000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_4000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_2500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_2500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_2500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_2500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_2500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_51000M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_51000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_51000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_51000M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_51000M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_1250M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_1250M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_1250M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_1250M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_1250M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz
+KNOBS=
+
+NAME=ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M_4T
+TRACE=$(PYTHIA_HOME)/traces/ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz $(PYTHIA_HOME)/traces/ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz
+KNOBS=

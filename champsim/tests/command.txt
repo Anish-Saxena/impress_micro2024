@@ -1,0 +1,1 @@
+srun --account gts-mqureshi4 ../bin/4C_16WLLC --warmup_instructions=1000000 --simulation_instructions=20000000 ../../pythia/traces/602.gcc_s-1850B.champsimtrace.xz ../../pythia/traces/602.gcc_s-1850B.champsimtrace.xz ../../pythia/traces/602.gcc_s-1850B.champsimtrace.xz ../../pythia/traces/602.gcc_s-1850B.champsimtrace.xz | tee stats_new_addr_mapping.txt 

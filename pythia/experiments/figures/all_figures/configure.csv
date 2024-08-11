@@ -1,0 +1,48 @@
+8C_12W_1.5MB.json	8C_12W_1.5MB	single	Figure 9 baseline 12MB LLC
+8C_12W_3MB.json	8C_12W_3MB	single	Figure 9 baseline 24MB LLC
+8C_16W_512GB.json	8C_16W_512GB	single	Figure 13 baseline
+8C_16W.json	8C_16WLLC	all	All figures
+8C_1b_T256.json	8C_1b_T256	single	Figure 6 T256
+8C_1b_T64.json	8C_1b_T64	single	Figure 6 T64
+8C_2b_1.5MB_T256.json	8C_2b_1.5MB_T256	single	Figure 9  T256 12MB LLC
+8C_2b_1.5MB_T64.json	8C_2b_1.5MB_T64	single	Figure 9  T6412MB LLC
+8C_2b_3MB_T256.json	8C_2b_3MB_T256	single	Figure 9  T256 24MB LLC
+8C_2b_3MB_T64.json	8C_2b_3MB_T64	single	Figure 9  T64 24MB LLC
+8C_2b_BR2_T256.json	8C_2b_BR2_T256	single	Figure 10 
+8C_2b_BR2_T64.json	8C_2b_BR2_T64	single	Figure 10 
+8C_2b_BR4_T256.json	8C_2b_BR4_T256	single	Figure 10 
+8C_2b_BR4_T64.json	8C_2b_BR4_T64	single	Figure 10 
+8C_2b_T16.json	8C_2b_T16	single	Figure 15 
+8C_2b_T256.json	8C_2b_T256	single	Figure 6, 15
+8C_2b_T64.json	8C_2b_T64	all	Figure 6, 15, 16
+8C_HYDRA_T16.186KB.json	8C_Hydra_T16.186KB	single	Figure 2
+8C_HYDRA_T16.186KB.NOMIT.json	8C_Hydra_T16.186KB.NOMIT	single	Figure 2
+8C_HYDRA_T16.json	8C_Hydra_T16_RG32_S1K	single	Figure 2
+8C_HYDRA_T16.NOMIT.json	8C_Hydra_T16.NOMIT	single	Figure 2
+8C_HYDRA_T256.json	8C_Hydra_T256	single	Figure 2
+8C_HYDRA_T256.NOMIT.json	8C_Hydra_T256.NOMIT	single	Figure 2
+8C_HYDRA_T64.186KB.json	8C_Hydra_T64.186KB	all	Figure 2, 16
+8C_HYDRA_T64.186KB.NOMIT.json	8C_Hydra_T64.186KB.NOMIT	single	Figure 2
+8C_HYDRA_T64.NOMIT.json	8C_Hydra_T64.NOMIT	single 	Figure 2
+8C_HYDRA_T64_RG32_S1K.json	8C_Hydra_T64_RG32_S1K	all	Figure 2, 16
+8C_IDEAL_1.5MB_T256.json	8C_ideal_1.5MB_T256	single	Figure 9 12MB LLC
+8C_IDEAL_1.5MB_T64.json	8C_ideal_1.5MB_T64	single	Figure 9 12MB LLC
+8C_IDEAL_3MB_T256.json	8C_ideal_3MB_T256	single	Figure 9 24MB LLC
+8C_IDEAL_3MB_T64.json	8C_ideal_3MB_T64	single	Figure 9 24MB LLC
+8C_IDEAL_512GB_T256.json	8C_ideal_512GB_T256	single	Figure 13
+8C_IDEAL_512GB_T64.json	8C_ideal_512GB_T64	single	Figure 13
+8C_IDEAL_BR2_T256.json	8C_ideal_BR2_T256	single	Figure 10 
+8C_IDEAL_BR2_T64.json	8C_ideal_BR2_T64	single	Figure 10 
+8C_IDEAL_BR4_T256.json	8C_ideal_BR4_T256	single	Figure 10 
+8C_IDEAL_BR4_T64.json	8C_ideal_BR4_T64	single	Figure 10 
+8C_IDEAL_T16.json	8C_ideal_T16	single	Figure 2, 15 
+8C_IDEAL_T1K.json	8C_ideal_T1K	single	Figure 15 
+8C_IDEAL_T256.json	8C_ideal_T256	single	All figures
+8C_IDEAL_T4K.json	8C_ideal_T4K	single	Figure 15 
+8C_IDEAL_T64.json	8C_ideal_T64	all	All figures
+8C_mm_64GBmem_T1K.json	8C_mm_64GBmem_T1K	single	Figure 15 
+8C_mm_64GBmem_T4K.json	8C_mm_64GBmem_T4K	single	Figure 15 
+8C_mm_lite_T64.json	8C_mm_lite_T64	all	Figure 16
+8C_mm_T256.json	8C_mm_T256	single	Figure 13
+8C_mm_T64.json	8C_mm_T64	single	Figure 13
+1C_16W.json	1C_16WLLC	all	Figure 16

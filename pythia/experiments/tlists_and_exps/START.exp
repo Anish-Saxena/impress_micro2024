@@ -1,0 +1,5 @@
+# configurations
+BASE = --warmup_instructions=50000000 --simulation_instructions=200000000
+
+# Experiments
+base                        $(BASE)

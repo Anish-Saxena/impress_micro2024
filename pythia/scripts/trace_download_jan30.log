@@ -1,0 +1,1648 @@
+Downloading 403.gcc-16B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/403.gcc-16B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 410.bwaves-1963B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/410.bwaves-1963B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 410.bwaves-2097B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/410.bwaves-2097B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 429.mcf-22B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/429.mcf-22B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 429.mcf-51B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/429.mcf-51B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 429.mcf-184B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/429.mcf-184B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 429.mcf-192B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/429.mcf-192B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 433.milc-127B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/433.milc-127B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 433.milc-337B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/433.milc-337B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 436.cactusADM-1804B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/436.cactusADM-1804B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 437.leslie3d-134B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/437.leslie3d-134B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 437.leslie3d-149B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/437.leslie3d-149B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 437.leslie3d-232B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/437.leslie3d-232B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 437.leslie3d-265B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/437.leslie3d-265B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 437.leslie3d-271B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/437.leslie3d-271B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 437.leslie3d-273B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/437.leslie3d-273B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 445.gobmk-30B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/445.gobmk-30B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 445.gobmk-36B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/445.gobmk-36B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 450.soplex-92B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/450.soplex-92B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 450.soplex-247B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/450.soplex-247B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 456.hmmer-327B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/456.hmmer-327B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 459.GemsFDTD-765B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/459.GemsFDTD-765B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 459.GemsFDTD-1169B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/459.GemsFDTD-1169B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 459.GemsFDTD-1211B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/459.GemsFDTD-1211B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 459.GemsFDTD-1418B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/459.GemsFDTD-1418B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 459.GemsFDTD-1491B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/459.GemsFDTD-1491B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 462.libquantum-714B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/462.libquantum-714B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 462.libquantum-1343B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/462.libquantum-1343B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 470.lbm-1274B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/470.lbm-1274B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 471.omnetpp-188B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/471.omnetpp-188B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 473.astar-359B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/473.astar-359B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 481.wrf-196B.champsimtrace.xz...
+--2023-01-30 17:36:31--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/481.wrf-196B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 481.wrf-455B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/481.wrf-455B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 481.wrf-816B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/481.wrf-816B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 481.wrf-1254B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/481.wrf-1254B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 481.wrf-1281B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/481.wrf-1281B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 482.sphinx3-234B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/482.sphinx3-234B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 482.sphinx3-417B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/482.sphinx3-417B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 482.sphinx3-1100B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/482.sphinx3-1100B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 482.sphinx3-1297B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/482.sphinx3-1297B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 482.sphinx3-1395B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/482.sphinx3-1395B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 482.sphinx3-1522B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/482.sphinx3-1522B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 483.xalancbmk-127B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/483.xalancbmk-127B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 602.gcc_s-734B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/602.gcc_s-734B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 602.gcc_s-1850B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/602.gcc_s-1850B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 602.gcc_s-2226B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/602.gcc_s-2226B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 603.bwaves_s-1740B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/603.bwaves_s-1740B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 603.bwaves_s-2609B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/603.bwaves_s-2609B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 603.bwaves_s-2931B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/603.bwaves_s-2931B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 605.mcf_s-472B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/605.mcf_s-472B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 605.mcf_s-484B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/605.mcf_s-484B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 605.mcf_s-665B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/605.mcf_s-665B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 605.mcf_s-782B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/605.mcf_s-782B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 605.mcf_s-994B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/605.mcf_s-994B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 605.mcf_s-1536B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/605.mcf_s-1536B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 605.mcf_s-1554B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/605.mcf_s-1554B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 605.mcf_s-1644B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/605.mcf_s-1644B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 607.cactuBSSN_s-2421B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/607.cactuBSSN_s-2421B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 607.cactuBSSN_s-3477B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/607.cactuBSSN_s-3477B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 607.cactuBSSN_s-4004B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/607.cactuBSSN_s-4004B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 619.lbm_s-2676B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/619.lbm_s-2676B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 619.lbm_s-2677B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/619.lbm_s-2677B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 619.lbm_s-3766B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/619.lbm_s-3766B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 619.lbm_s-4268B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/619.lbm_s-4268B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 620.omnetpp_s-141B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/620.omnetpp_s-141B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 620.omnetpp_s-874B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/620.omnetpp_s-874B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 621.wrf_s-6673B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/621.wrf_s-6673B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 621.wrf_s-8065B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/621.wrf_s-8065B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 623.xalancbmk_s-10B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/623.xalancbmk_s-10B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 623.xalancbmk_s-202B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/623.xalancbmk_s-202B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 623.xalancbmk_s-592B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/623.xalancbmk_s-592B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 627.cam4_s-490B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/627.cam4_s-490B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 627.cam4_s-573B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/627.cam4_s-573B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 628.pop2_s-17B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/628.pop2_s-17B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 649.fotonik3d_s-1176B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/649.fotonik3d_s-1176B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 649.fotonik3d_s-7084B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/649.fotonik3d_s-7084B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 649.fotonik3d_s-8225B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/649.fotonik3d_s-8225B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 649.fotonik3d_s-10881B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/649.fotonik3d_s-10881B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 654.roms_s-293B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/654.roms_s-293B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 654.roms_s-294B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/654.roms_s-294B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 654.roms_s-523B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/654.roms_s-523B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 654.roms_s-1007B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/654.roms_s-1007B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 654.roms_s-1070B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/654.roms_s-1070B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 654.roms_s-1390B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/654.roms_s-1390B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading 654.roms_s-1613B.champsimtrace.xz...
+--2023-01-30 17:36:32--  http://hpca23.cse.tamu.edu/champsim-traces/speccpu/654.roms_s-1613B.champsimtrace.xz
+Resolving hpca23.cse.tamu.edu (hpca23.cse.tamu.edu)... failed: Name or service not known.
+wget: unable to resolve host address ‘hpca23.cse.tamu.edu’
+Downloading cassandra_phase0_core0.trace.xz...
+--2023-01-30 17:36:32--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABPy5ZOekMPYymstkMrcGtMa/cassandra_phase0_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABPy5ZOekMPYymstkMrcGtMa/cassandra_phase0_core0.trace.xz [following]
+--2023-01-30 17:36:32--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABPy5ZOekMPYymstkMrcGtMa/cassandra_phase0_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc5274564fb1c6d137cfbdcc5f3d.dl.dropboxusercontent.com/cd/0/get/B1iltSZB6YgUddTgkfF43Qs1mpvEWOKSdkKlLHp5Q_GlEKhPFMG-bvtxIKq9r7P7ndqkzLQdLSJ6OacttX5o--qYLewsarajCYNY-ObQDzTBCTTDgSY6u2_b9l6c3Jx2QLgA05zZZ7nlcitVKDJNeu4WbUUh33VnuFNG5Fy475tnoQ/file?dl=1# [following]
+--2023-01-30 17:36:33--  https://uc5274564fb1c6d137cfbdcc5f3d.dl.dropboxusercontent.com/cd/0/get/B1iltSZB6YgUddTgkfF43Qs1mpvEWOKSdkKlLHp5Q_GlEKhPFMG-bvtxIKq9r7P7ndqkzLQdLSJ6OacttX5o--qYLewsarajCYNY-ObQDzTBCTTDgSY6u2_b9l6c3Jx2QLgA05zZZ7nlcitVKDJNeu4WbUUh33VnuFNG5Fy475tnoQ/file?dl=1
+Resolving uc5274564fb1c6d137cfbdcc5f3d.dl.dropboxusercontent.com (uc5274564fb1c6d137cfbdcc5f3d.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc5274564fb1c6d137cfbdcc5f3d.dl.dropboxusercontent.com (uc5274564fb1c6d137cfbdcc5f3d.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44909216 (43M) [application/binary]
+Saving to: ‘../traces//cassandra_phase0_core0.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  42.83M  11.2MB/s    in 3.8s    
+
+2023-01-30 17:36:37 (11.1 MB/s) - ‘../traces//cassandra_phase0_core0.trace.xz’ saved [44909216/44909216]
+
+Downloading cassandra_phase0_core1.trace.xz...
+--2023-01-30 17:36:37--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADKkonfoQUVstrcyT5Lk0Lqa/cassandra_phase0_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADKkonfoQUVstrcyT5Lk0Lqa/cassandra_phase0_core1.trace.xz [following]
+--2023-01-30 17:36:38--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADKkonfoQUVstrcyT5Lk0Lqa/cassandra_phase0_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucc001834cf28ffc9665414c508b.dl.dropboxusercontent.com/cd/0/get/B1hdS3DM4kTKpT2nuBUublfrfcOwx2hLonzq20cCQJADhjpozu2jqAjboyrSMQn9K_XtTVsRmYDgEQzulrE_3bhcIeDW6mCgkBOxLRYhLvg3z48Xu5-hjDZPXgaKT374UvFn1jq_l8K7EX09jF2HqRtzwfR87FSNLpBU9YJwXWyM2A/file?dl=1# [following]
+--2023-01-30 17:36:38--  https://ucc001834cf28ffc9665414c508b.dl.dropboxusercontent.com/cd/0/get/B1hdS3DM4kTKpT2nuBUublfrfcOwx2hLonzq20cCQJADhjpozu2jqAjboyrSMQn9K_XtTVsRmYDgEQzulrE_3bhcIeDW6mCgkBOxLRYhLvg3z48Xu5-hjDZPXgaKT374UvFn1jq_l8K7EX09jF2HqRtzwfR87FSNLpBU9YJwXWyM2A/file?dl=1
+Resolving ucc001834cf28ffc9665414c508b.dl.dropboxusercontent.com (ucc001834cf28ffc9665414c508b.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucc001834cf28ffc9665414c508b.dl.dropboxusercontent.com (ucc001834cf28ffc9665414c508b.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52989012 (51M) [application/binary]
+Saving to: ‘../traces//cassandra_phase0_core1.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  50.53M  11.2MB/s    in 4.6s    
+
+2023-01-30 17:36:43 (11.1 MB/s) - ‘../traces//cassandra_phase0_core1.trace.xz’ saved [52989012/52989012]
+
+Downloading cassandra_phase0_core2.trace.xz...
+--2023-01-30 17:36:43--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAA_MTLTfeV20gedTfnYKMXSa/cassandra_phase0_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAA_MTLTfeV20gedTfnYKMXSa/cassandra_phase0_core2.trace.xz [following]
+--2023-01-30 17:36:44--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAA_MTLTfeV20gedTfnYKMXSa/cassandra_phase0_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc7786e98218ed92a15d876f0009.dl.dropboxusercontent.com/cd/0/get/B1jVWjDqMiOWjco-G3u8RZ2qthS75V6t2QPUnA3G8Q2tSWjaXKC03CQSi78lFHoQaegUrCoz-jr5HR9EXFRwjX0zSuTHtTxCG41cFTNRZn2Kpizi7PzaiB8TaIhudJe0vxQManhq7aJ-bFuV5J_V_HQkp7feZjS2dBgdQxhJLP7MOQ/file?dl=1# [following]
+--2023-01-30 17:36:44--  https://uc7786e98218ed92a15d876f0009.dl.dropboxusercontent.com/cd/0/get/B1jVWjDqMiOWjco-G3u8RZ2qthS75V6t2QPUnA3G8Q2tSWjaXKC03CQSi78lFHoQaegUrCoz-jr5HR9EXFRwjX0zSuTHtTxCG41cFTNRZn2Kpizi7PzaiB8TaIhudJe0vxQManhq7aJ-bFuV5J_V_HQkp7feZjS2dBgdQxhJLP7MOQ/file?dl=1
+Resolving uc7786e98218ed92a15d876f0009.dl.dropboxusercontent.com (uc7786e98218ed92a15d876f0009.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc7786e98218ed92a15d876f0009.dl.dropboxusercontent.com (uc7786e98218ed92a15d876f0009.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45518276 (43M) [application/binary]
+Saving to: ‘../traces//cassandra_phase0_core2.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  43.41M  11.2MB/s    in 3.9s    
+
+2023-01-30 17:36:49 (11.1 MB/s) - ‘../traces//cassandra_phase0_core2.trace.xz’ saved [45518276/45518276]
+
+Downloading cassandra_phase0_core3.trace.xz...
+--2023-01-30 17:36:49--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAxyw54ucAdP36BT4uDiSqTa/cassandra_phase0_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAxyw54ucAdP36BT4uDiSqTa/cassandra_phase0_core3.trace.xz [following]
+--2023-01-30 17:36:49--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAxyw54ucAdP36BT4uDiSqTa/cassandra_phase0_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc7c06698702694c334c30ae36bd.dl.dropboxusercontent.com/cd/0/get/B1igyAgESmK6A2H0mNAoud3G-p6x7Mk610gy8WXMbASJFWAEioj04XmWZ-kDrvRNGtIz9PFhybgccdoEBLdisqoG-goLVByw8GnFBSDqdWIxctpPGGTR2TawwZ22LapkpyYj0uy04j0HIzeG-YLM0vFMFxaPiZHR9zLJ_0sX1EKwKw/file?dl=1# [following]
+--2023-01-30 17:36:49--  https://uc7c06698702694c334c30ae36bd.dl.dropboxusercontent.com/cd/0/get/B1igyAgESmK6A2H0mNAoud3G-p6x7Mk610gy8WXMbASJFWAEioj04XmWZ-kDrvRNGtIz9PFhybgccdoEBLdisqoG-goLVByw8GnFBSDqdWIxctpPGGTR2TawwZ22LapkpyYj0uy04j0HIzeG-YLM0vFMFxaPiZHR9zLJ_0sX1EKwKw/file?dl=1
+Resolving uc7c06698702694c334c30ae36bd.dl.dropboxusercontent.com (uc7c06698702694c334c30ae36bd.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc7c06698702694c334c30ae36bd.dl.dropboxusercontent.com (uc7c06698702694c334c30ae36bd.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47217284 (45M) [application/binary]
+Saving to: ‘../traces//cassandra_phase0_core3.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  45.03M  11.2MB/s    in 4.0s    
+
+2023-01-30 17:36:54 (11.2 MB/s) - ‘../traces//cassandra_phase0_core3.trace.xz’ saved [47217284/47217284]
+
+Downloading cassandra_phase1_core0.trace.xz...
+--2023-01-30 17:36:54--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AACmeae2Z0J_-5p5HZANEeKRa/cassandra_phase1_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AACmeae2Z0J_-5p5HZANEeKRa/cassandra_phase1_core0.trace.xz [following]
+--2023-01-30 17:36:54--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AACmeae2Z0J_-5p5HZANEeKRa/cassandra_phase1_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc005bc8f6a5d5e184585088789c.dl.dropboxusercontent.com/cd/0/get/B1iaUck_aCKhYjcH0vOSGfT2NrOoryiSClSZWC5yW8P1nXth4Ip0zZaFPBQ_1ai17yCk05IyG7m0ns7vA3FBzKKDlbzo-kV5YCONpVf1XkfFlVQofbUt2jHQK6Mp9elkTdfLbY_B82rikGVR1XlNSoYPyhuZ7j-xAHknNlwBcxKzpA/file?dl=1# [following]
+--2023-01-30 17:36:54--  https://uc005bc8f6a5d5e184585088789c.dl.dropboxusercontent.com/cd/0/get/B1iaUck_aCKhYjcH0vOSGfT2NrOoryiSClSZWC5yW8P1nXth4Ip0zZaFPBQ_1ai17yCk05IyG7m0ns7vA3FBzKKDlbzo-kV5YCONpVf1XkfFlVQofbUt2jHQK6Mp9elkTdfLbY_B82rikGVR1XlNSoYPyhuZ7j-xAHknNlwBcxKzpA/file?dl=1
+Resolving uc005bc8f6a5d5e184585088789c.dl.dropboxusercontent.com (uc005bc8f6a5d5e184585088789c.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc005bc8f6a5d5e184585088789c.dl.dropboxusercontent.com (uc005bc8f6a5d5e184585088789c.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53422596 (51M) [application/binary]
+Saving to: ‘../traces//cassandra_phase1_core0.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  50.95M  11.2MB/s    in 4.6s    
+
+2023-01-30 17:37:00 (11.2 MB/s) - ‘../traces//cassandra_phase1_core0.trace.xz’ saved [53422596/53422596]
+
+Downloading cassandra_phase1_core1.trace.xz...
+--2023-01-30 17:37:00--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAbReq7bfnBDFzgdgFPSpC8a/cassandra_phase1_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAbReq7bfnBDFzgdgFPSpC8a/cassandra_phase1_core1.trace.xz [following]
+--2023-01-30 17:37:00--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAbReq7bfnBDFzgdgFPSpC8a/cassandra_phase1_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucc82e91a3387040859ddf11a819.dl.dropboxusercontent.com/cd/0/get/B1j_6sZxJoY1AvC0gKFcpyJ1N2h2bswghfluj5Bjnwn1TjD-qCcy1c2peFqOx8e1jl5X-527pqYHhWq1erdQYxdCHoyhfA_Jw4XiKK0c0w_D8MZ0DUhLzX_HVdNBO56aEPm_nUyENHZFauntZWvFVYngB3ZeB_CJRsbgKsyJEPb5Cw/file?dl=1# [following]
+--2023-01-30 17:37:00--  https://ucc82e91a3387040859ddf11a819.dl.dropboxusercontent.com/cd/0/get/B1j_6sZxJoY1AvC0gKFcpyJ1N2h2bswghfluj5Bjnwn1TjD-qCcy1c2peFqOx8e1jl5X-527pqYHhWq1erdQYxdCHoyhfA_Jw4XiKK0c0w_D8MZ0DUhLzX_HVdNBO56aEPm_nUyENHZFauntZWvFVYngB3ZeB_CJRsbgKsyJEPb5Cw/file?dl=1
+Resolving ucc82e91a3387040859ddf11a819.dl.dropboxusercontent.com (ucc82e91a3387040859ddf11a819.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucc82e91a3387040859ddf11a819.dl.dropboxusercontent.com (ucc82e91a3387040859ddf11a819.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57914780 (55M) [application/binary]
+Saving to: ‘../traces//cassandra_phase1_core1.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  55.23M  11.2MB/s    in 5.0s    
+
+2023-01-30 17:37:06 (11.1 MB/s) - ‘../traces//cassandra_phase1_core1.trace.xz’ saved [57914780/57914780]
+
+Downloading cassandra_phase1_core2.trace.xz...
+--2023-01-30 17:37:06--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AACvbRgl_dZUDCQyiQPwloTPa/cassandra_phase1_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AACvbRgl_dZUDCQyiQPwloTPa/cassandra_phase1_core2.trace.xz [following]
+--2023-01-30 17:37:06--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AACvbRgl_dZUDCQyiQPwloTPa/cassandra_phase1_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc374085a21693e2c7d457ff64c3.dl.dropboxusercontent.com/cd/0/get/B1jdC3lrC7h1y0ogHlb-sEQsNu5vE-5HZGzJXsU8HLe_TADeZZV0k601VZOeopxHpSZONg_bIOjZOarusQba8prvp0-zyD810EyrXR6EVHlC26EaRQpaRou7I7KjEwc0MWlzSYw1j8XHvJZHZkyQ6Ncih4H-PjujAdEG4hNs9Y1Atg/file?dl=1# [following]
+--2023-01-30 17:37:07--  https://uc374085a21693e2c7d457ff64c3.dl.dropboxusercontent.com/cd/0/get/B1jdC3lrC7h1y0ogHlb-sEQsNu5vE-5HZGzJXsU8HLe_TADeZZV0k601VZOeopxHpSZONg_bIOjZOarusQba8prvp0-zyD810EyrXR6EVHlC26EaRQpaRou7I7KjEwc0MWlzSYw1j8XHvJZHZkyQ6Ncih4H-PjujAdEG4hNs9Y1Atg/file?dl=1
+Resolving uc374085a21693e2c7d457ff64c3.dl.dropboxusercontent.com (uc374085a21693e2c7d457ff64c3.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc374085a21693e2c7d457ff64c3.dl.dropboxusercontent.com (uc374085a21693e2c7d457ff64c3.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50008792 (48M) [application/binary]
+Saving to: ‘../traces//cassandra_phase1_core2.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  47.69M  11.2MB/s    in 4.3s    
+
+2023-01-30 17:37:12 (11.1 MB/s) - ‘../traces//cassandra_phase1_core2.trace.xz’ saved [50008792/50008792]
+
+Downloading cassandra_phase1_core3.trace.xz...
+--2023-01-30 17:37:12--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABtX9iAHVARD0y3BjAW0YTYa/cassandra_phase1_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABtX9iAHVARD0y3BjAW0YTYa/cassandra_phase1_core3.trace.xz [following]
+--2023-01-30 17:37:12--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABtX9iAHVARD0y3BjAW0YTYa/cassandra_phase1_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc274262cc96a225be87639e5406.dl.dropboxusercontent.com/cd/0/get/B1j5MMOUffpVmhupkYF1N3LmzrxYBwMfEK4PTVq1atqinZRZx4jbRnXaL_qmo7YlBMl7kJ-FX1AugzkMpxLpB37C2G3A8Cjyns4B5BxU8zVsnGsS6lQx0scGO2objhcYqAc016zK3UY8DU2mL81Ywmp5pih1GE5mzJyszILN_srELA/file?dl=1# [following]
+--2023-01-30 17:37:13--  https://uc274262cc96a225be87639e5406.dl.dropboxusercontent.com/cd/0/get/B1j5MMOUffpVmhupkYF1N3LmzrxYBwMfEK4PTVq1atqinZRZx4jbRnXaL_qmo7YlBMl7kJ-FX1AugzkMpxLpB37C2G3A8Cjyns4B5BxU8zVsnGsS6lQx0scGO2objhcYqAc016zK3UY8DU2mL81Ywmp5pih1GE5mzJyszILN_srELA/file?dl=1
+Resolving uc274262cc96a225be87639e5406.dl.dropboxusercontent.com (uc274262cc96a225be87639e5406.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc274262cc96a225be87639e5406.dl.dropboxusercontent.com (uc274262cc96a225be87639e5406.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53227964 (51M) [application/binary]
+Saving to: ‘../traces//cassandra_phase1_core3.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  50.76M  11.0MB/s    in 4.6s    
+
+2023-01-30 17:37:18 (11.0 MB/s) - ‘../traces//cassandra_phase1_core3.trace.xz’ saved [53227964/53227964]
+
+Downloading cassandra_phase2_core1.trace.xz...
+--2023-01-30 17:37:18--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AACIxVXnzSpnul80MjhXuxx0a/cassandra_phase2_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AACIxVXnzSpnul80MjhXuxx0a/cassandra_phase2_core1.trace.xz [following]
+--2023-01-30 17:37:18--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AACIxVXnzSpnul80MjhXuxx0a/cassandra_phase2_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc17d4c5756e1c97912925d4ba81.dl.dropboxusercontent.com/cd/0/get/B1jYZU8yMiVcTdZAwsCMRLXjbV18ooOkOQtcPLI8468lHsWButjfB_Jrv0qgCFBL5B3xzJRwJfke_aIryf83ZkDL_gKiIdO-WPUVQyD6jC0xc49Bi87P9oE-j9s_z3TED7-voYAQyTLHYRRn5nBEWuPAqzM6Zvs1clVSHY7Qio0NBA/file?dl=1# [following]
+--2023-01-30 17:37:19--  https://uc17d4c5756e1c97912925d4ba81.dl.dropboxusercontent.com/cd/0/get/B1jYZU8yMiVcTdZAwsCMRLXjbV18ooOkOQtcPLI8468lHsWButjfB_Jrv0qgCFBL5B3xzJRwJfke_aIryf83ZkDL_gKiIdO-WPUVQyD6jC0xc49Bi87P9oE-j9s_z3TED7-voYAQyTLHYRRn5nBEWuPAqzM6Zvs1clVSHY7Qio0NBA/file?dl=1
+Resolving uc17d4c5756e1c97912925d4ba81.dl.dropboxusercontent.com (uc17d4c5756e1c97912925d4ba81.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc17d4c5756e1c97912925d4ba81.dl.dropboxusercontent.com (uc17d4c5756e1c97912925d4ba81.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55235640 (53M) [application/binary]
+Saving to: ‘../traces//cassandra_phase2_core1.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  52.68M  11.1MB/s    in 4.7s    
+
+2023-01-30 17:37:24 (11.1 MB/s) - ‘../traces//cassandra_phase2_core1.trace.xz’ saved [55235640/55235640]
+
+Downloading cassandra_phase2_core2.trace.xz...
+--2023-01-30 17:37:24--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAlQ7gzIiBy30oc7YifROUBa/cassandra_phase2_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAlQ7gzIiBy30oc7YifROUBa/cassandra_phase2_core2.trace.xz [following]
+--2023-01-30 17:37:26--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAlQ7gzIiBy30oc7YifROUBa/cassandra_phase2_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucb5664923e150a9205e85d75f38.dl.dropboxusercontent.com/cd/0/get/B1jLzzhvhqcb_rG73xRjFFi8aPnDKg5KUF5y5rpiM4kUAEVkawIMcBTznwD82j6YCDNZAffCGsC8GQtMVPw8liGEX-LmqiZ1bXo6ODCxH5SQkPLdo3qyDXppwnBopw5NtqfvgTQVIiCo1lyKwfRyPCi_Ywo_iVhXZcdMsmiLFy-7bw/file?dl=1# [following]
+--2023-01-30 17:37:26--  https://ucb5664923e150a9205e85d75f38.dl.dropboxusercontent.com/cd/0/get/B1jLzzhvhqcb_rG73xRjFFi8aPnDKg5KUF5y5rpiM4kUAEVkawIMcBTznwD82j6YCDNZAffCGsC8GQtMVPw8liGEX-LmqiZ1bXo6ODCxH5SQkPLdo3qyDXppwnBopw5NtqfvgTQVIiCo1lyKwfRyPCi_Ywo_iVhXZcdMsmiLFy-7bw/file?dl=1
+Resolving ucb5664923e150a9205e85d75f38.dl.dropboxusercontent.com (ucb5664923e150a9205e85d75f38.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucb5664923e150a9205e85d75f38.dl.dropboxusercontent.com (ucb5664923e150a9205e85d75f38.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49860992 (48M) [application/binary]
+Saving to: ‘../traces//cassandra_phase2_core2.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  47.55M  11.2MB/s    in 4.3s    
+
+2023-01-30 17:37:31 (11.1 MB/s) - ‘../traces//cassandra_phase2_core2.trace.xz’ saved [49860992/49860992]
+
+Downloading cassandra_phase2_core3.trace.xz...
+--2023-01-30 17:37:31--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADqq0bZMxtfnGXbrZV4Evs3a/cassandra_phase2_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADqq0bZMxtfnGXbrZV4Evs3a/cassandra_phase2_core3.trace.xz [following]
+--2023-01-30 17:37:31--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADqq0bZMxtfnGXbrZV4Evs3a/cassandra_phase2_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucd162e3e56048ba359a6da736c4.dl.dropboxusercontent.com/cd/0/get/B1i79fErINZd-bldG21VE3gD9Q9_ZW_SuDYCiBkThOenvGNI-_uIbe-sI8n8AfEqEpqEIjvDq_YCP-3AT--p8eMKhCTITIOPskUB-1N9OaMBCCLO-BO9FRvDIkyXe3wUMshTjEmmuxBXx00Pluau9eVsU-ydrdP7nntoMpIbx2ZMcQ/file?dl=1# [following]
+--2023-01-30 17:37:32--  https://ucd162e3e56048ba359a6da736c4.dl.dropboxusercontent.com/cd/0/get/B1i79fErINZd-bldG21VE3gD9Q9_ZW_SuDYCiBkThOenvGNI-_uIbe-sI8n8AfEqEpqEIjvDq_YCP-3AT--p8eMKhCTITIOPskUB-1N9OaMBCCLO-BO9FRvDIkyXe3wUMshTjEmmuxBXx00Pluau9eVsU-ydrdP7nntoMpIbx2ZMcQ/file?dl=1
+Resolving ucd162e3e56048ba359a6da736c4.dl.dropboxusercontent.com (ucd162e3e56048ba359a6da736c4.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucd162e3e56048ba359a6da736c4.dl.dropboxusercontent.com (ucd162e3e56048ba359a6da736c4.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47907148 (46M) [application/binary]
+Saving to: ‘../traces//cassandra_phase2_core3.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  45.69M  11.2MB/s    in 4.1s    
+
+2023-01-30 17:37:36 (11.2 MB/s) - ‘../traces//cassandra_phase2_core3.trace.xz’ saved [47907148/47907148]
+
+Downloading cassandra_phase3_core1.trace.xz...
+--2023-01-30 17:37:36--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABOfigXDE1nJbxrbgTmbkbra/cassandra_phase3_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABOfigXDE1nJbxrbgTmbkbra/cassandra_phase3_core1.trace.xz [following]
+--2023-01-30 17:37:37--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABOfigXDE1nJbxrbgTmbkbra/cassandra_phase3_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uca582252970a1d6141ea02d20cb.dl.dropboxusercontent.com/cd/0/get/B1jUz7B5kQ0KIRslcDPPzDmppF9q5yrK_qZJFgt631ZG-XN9_DFb9vJWQqIri03NcGDcN28QrC9Ih9G-Kuk5S7gvLGAk8zdrkPLC_fyVKx6-avJG-Ug8tEyyz2DPan5YRLm4f_TqYaXfMYHR-82-9Kyek0zyZpuy5Aw9kW1GFcpA-A/file?dl=1# [following]
+--2023-01-30 17:37:37--  https://uca582252970a1d6141ea02d20cb.dl.dropboxusercontent.com/cd/0/get/B1jUz7B5kQ0KIRslcDPPzDmppF9q5yrK_qZJFgt631ZG-XN9_DFb9vJWQqIri03NcGDcN28QrC9Ih9G-Kuk5S7gvLGAk8zdrkPLC_fyVKx6-avJG-Ug8tEyyz2DPan5YRLm4f_TqYaXfMYHR-82-9Kyek0zyZpuy5Aw9kW1GFcpA-A/file?dl=1
+Resolving uca582252970a1d6141ea02d20cb.dl.dropboxusercontent.com (uca582252970a1d6141ea02d20cb.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uca582252970a1d6141ea02d20cb.dl.dropboxusercontent.com (uca582252970a1d6141ea02d20cb.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53239936 (51M) [application/binary]
+Saving to: ‘../traces//cassandra_phase3_core1.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  50.77M  11.1MB/s    in 4.6s    
+
+2023-01-30 17:37:42 (11.1 MB/s) - ‘../traces//cassandra_phase3_core1.trace.xz’ saved [53239936/53239936]
+
+Downloading cassandra_phase3_core3.trace.xz...
+--2023-01-30 17:37:42--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AACSZ4lAkbdZkzxXwdshkhq0a/cassandra_phase3_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AACSZ4lAkbdZkzxXwdshkhq0a/cassandra_phase3_core3.trace.xz [following]
+--2023-01-30 17:37:43--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AACSZ4lAkbdZkzxXwdshkhq0a/cassandra_phase3_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc6cd910023a88cddbf2921b84ec.dl.dropboxusercontent.com/cd/0/get/B1gdoFIvUaE0NHVuLQ4hYQf48aJxVi_QiuwQaaMTtY35uvyyrrKQ0dyV3dTl_MQYo4RMwOpT2aVC0NxJXj7YCEgZ2V0wlikUkdyke_TgJYuvzqlnxA_YpOaWNWBlrSJGcpL5yvjWKwteMZ-Rut52EnKuV1OO5YDPFMwl3MRu1mkTfQ/file?dl=1# [following]
+--2023-01-30 17:37:43--  https://uc6cd910023a88cddbf2921b84ec.dl.dropboxusercontent.com/cd/0/get/B1gdoFIvUaE0NHVuLQ4hYQf48aJxVi_QiuwQaaMTtY35uvyyrrKQ0dyV3dTl_MQYo4RMwOpT2aVC0NxJXj7YCEgZ2V0wlikUkdyke_TgJYuvzqlnxA_YpOaWNWBlrSJGcpL5yvjWKwteMZ-Rut52EnKuV1OO5YDPFMwl3MRu1mkTfQ/file?dl=1
+Resolving uc6cd910023a88cddbf2921b84ec.dl.dropboxusercontent.com (uc6cd910023a88cddbf2921b84ec.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc6cd910023a88cddbf2921b84ec.dl.dropboxusercontent.com (uc6cd910023a88cddbf2921b84ec.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52030636 (50M) [application/binary]
+Saving to: ‘../traces//cassandra_phase3_core3.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  49.62M  11.2MB/s    in 4.4s    
+
+2023-01-30 17:37:48 (11.2 MB/s) - ‘../traces//cassandra_phase3_core3.trace.xz’ saved [52030636/52030636]
+
+Downloading cassandra_phase4_core0.trace.xz...
+--2023-01-30 17:37:48--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAA7CRmgXG8XL6dTjaUsz4tva/cassandra_phase4_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAA7CRmgXG8XL6dTjaUsz4tva/cassandra_phase4_core0.trace.xz [following]
+--2023-01-30 17:37:48--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAA7CRmgXG8XL6dTjaUsz4tva/cassandra_phase4_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucf357934a22f3606a6340230d1c.dl.dropboxusercontent.com/cd/0/get/B1hlSWVtSUAoV-ge_xOYceQC5KF9iZ4vTKgCSPiFjOQkONPiwbwY8-bqBcQ-M8ENzHEgDqgv9XOr68-0el13Bl_Lj8_vHYJdKJG7DHzQCW-kuhQtclY21eky__4F6V8buwqvyzEWum5boY_eBazoAyyEc6kfF5bfL5NwWXugvFk3wQ/file?dl=1# [following]
+--2023-01-30 17:37:49--  https://ucf357934a22f3606a6340230d1c.dl.dropboxusercontent.com/cd/0/get/B1hlSWVtSUAoV-ge_xOYceQC5KF9iZ4vTKgCSPiFjOQkONPiwbwY8-bqBcQ-M8ENzHEgDqgv9XOr68-0el13Bl_Lj8_vHYJdKJG7DHzQCW-kuhQtclY21eky__4F6V8buwqvyzEWum5boY_eBazoAyyEc6kfF5bfL5NwWXugvFk3wQ/file?dl=1
+Resolving ucf357934a22f3606a6340230d1c.dl.dropboxusercontent.com (ucf357934a22f3606a6340230d1c.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucf357934a22f3606a6340230d1c.dl.dropboxusercontent.com (ucf357934a22f3606a6340230d1c.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63500256 (61M) [application/binary]
+Saving to: ‘../traces//cassandra_phase4_core0.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  60.56M  11.2MB/s    in 5.4s    
+
+2023-01-30 17:37:55 (11.2 MB/s) - ‘../traces//cassandra_phase4_core0.trace.xz’ saved [63500256/63500256]
+
+Downloading cassandra_phase4_core2.trace.xz...
+--2023-01-30 17:37:55--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAFAEV5KDGxS-iZtKu_4UKMa/cassandra_phase4_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAFAEV5KDGxS-iZtKu_4UKMa/cassandra_phase4_core2.trace.xz [following]
+--2023-01-30 17:37:55--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAFAEV5KDGxS-iZtKu_4UKMa/cassandra_phase4_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucdb4d34f704c8a5da52e76a7eaf.dl.dropboxusercontent.com/cd/0/get/B1hBoi0gH_HDnnVx7NNvUEy0Sx9TkUvX2I2H9SlV0N5PzXqkccYoNhaTQufSzBbzVwFinde7rG36_QzvoStaBm9FNWhD-kXe5XBO_Fvv_MJaJdueoadRw1ycdH8pj_UZgZQe7SJtC4lV2Z26MD-hU81PmxC1zslFiaO08WWRNm2jUw/file?dl=1# [following]
+--2023-01-30 17:37:56--  https://ucdb4d34f704c8a5da52e76a7eaf.dl.dropboxusercontent.com/cd/0/get/B1hBoi0gH_HDnnVx7NNvUEy0Sx9TkUvX2I2H9SlV0N5PzXqkccYoNhaTQufSzBbzVwFinde7rG36_QzvoStaBm9FNWhD-kXe5XBO_Fvv_MJaJdueoadRw1ycdH8pj_UZgZQe7SJtC4lV2Z26MD-hU81PmxC1zslFiaO08WWRNm2jUw/file?dl=1
+Resolving ucdb4d34f704c8a5da52e76a7eaf.dl.dropboxusercontent.com (ucdb4d34f704c8a5da52e76a7eaf.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucdb4d34f704c8a5da52e76a7eaf.dl.dropboxusercontent.com (ucdb4d34f704c8a5da52e76a7eaf.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51590192 (49M) [application/binary]
+Saving to: ‘../traces//cassandra_phase4_core2.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  49.20M  11.2MB/s    in 4.4s    
+
+2023-01-30 17:38:01 (11.1 MB/s) - ‘../traces//cassandra_phase4_core2.trace.xz’ saved [51590192/51590192]
+
+Downloading cassandra_phase4_core3.trace.xz...
+--2023-01-30 17:38:01--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADQvsaIopPGypA-9rKI0pEKa/cassandra_phase4_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADQvsaIopPGypA-9rKI0pEKa/cassandra_phase4_core3.trace.xz [following]
+--2023-01-30 17:38:01--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADQvsaIopPGypA-9rKI0pEKa/cassandra_phase4_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc7c38ff5647ec93a17204ee25a9.dl.dropboxusercontent.com/cd/0/get/B1h2NCD9nF6wweH_ZRVmaLFbICRevPMxvTc-gwe31Pn5F7KdIxEOgJtXBSJwj0RdnoSiCFwiNf6Yy7LW22faCy6yk1y5fmrmG6WlUINld-jML9RyPo9jbADLvJ_Uo3ns4gH7i3gtYTagEvgDzAoN1fZI3bqLFJhGyfpHeB6hWui6MQ/file?dl=1# [following]
+--2023-01-30 17:38:02--  https://uc7c38ff5647ec93a17204ee25a9.dl.dropboxusercontent.com/cd/0/get/B1h2NCD9nF6wweH_ZRVmaLFbICRevPMxvTc-gwe31Pn5F7KdIxEOgJtXBSJwj0RdnoSiCFwiNf6Yy7LW22faCy6yk1y5fmrmG6WlUINld-jML9RyPo9jbADLvJ_Uo3ns4gH7i3gtYTagEvgDzAoN1fZI3bqLFJhGyfpHeB6hWui6MQ/file?dl=1
+Resolving uc7c38ff5647ec93a17204ee25a9.dl.dropboxusercontent.com (uc7c38ff5647ec93a17204ee25a9.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc7c38ff5647ec93a17204ee25a9.dl.dropboxusercontent.com (uc7c38ff5647ec93a17204ee25a9.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52039508 (50M) [application/binary]
+Saving to: ‘../traces//cassandra_phase4_core3.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  49.63M  11.2MB/s    in 4.5s    
+
+2023-01-30 17:38:07 (11.1 MB/s) - ‘../traces//cassandra_phase4_core3.trace.xz’ saved [52039508/52039508]
+
+Downloading cassandra_phase5_core0.trace.xz...
+--2023-01-30 17:38:07--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABsU51iDYyh_566_OUvXifca/cassandra_phase5_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABsU51iDYyh_566_OUvXifca/cassandra_phase5_core0.trace.xz [following]
+--2023-01-30 17:38:07--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABsU51iDYyh_566_OUvXifca/cassandra_phase5_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc41cdc7df89cd0a756ae7b2e504.dl.dropboxusercontent.com/cd/0/get/B1gT-GjGhnPYmDa1dZvxHPZ3PY454KaDmlcAf439lPWBxfjgsW8dmWXeQX8pDDLL4CpdJDDZZFhv-yM9nNI3q8FPtYWO0adv9R-jh1uN3PwyFJtHwYZr4rsVkfWlq-DPFnjI1NowZACTWVCzsbUEQohGXpEWHSEpaUdI-bqvF5Qe4g/file?dl=1# [following]
+--2023-01-30 17:38:08--  https://uc41cdc7df89cd0a756ae7b2e504.dl.dropboxusercontent.com/cd/0/get/B1gT-GjGhnPYmDa1dZvxHPZ3PY454KaDmlcAf439lPWBxfjgsW8dmWXeQX8pDDLL4CpdJDDZZFhv-yM9nNI3q8FPtYWO0adv9R-jh1uN3PwyFJtHwYZr4rsVkfWlq-DPFnjI1NowZACTWVCzsbUEQohGXpEWHSEpaUdI-bqvF5Qe4g/file?dl=1
+Resolving uc41cdc7df89cd0a756ae7b2e504.dl.dropboxusercontent.com (uc41cdc7df89cd0a756ae7b2e504.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc41cdc7df89cd0a756ae7b2e504.dl.dropboxusercontent.com (uc41cdc7df89cd0a756ae7b2e504.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42781920 (41M) [application/binary]
+Saving to: ‘../traces//cassandra_phase5_core0.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  40.80M  11.2MB/s    in 3.7s    
+
+2023-01-30 17:38:12 (11.1 MB/s) - ‘../traces//cassandra_phase5_core0.trace.xz’ saved [42781920/42781920]
+
+Downloading cassandra_phase5_core1.trace.xz...
+--2023-01-30 17:38:12--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADKF08GF50BOlayF3mGIDjFa/cassandra_phase5_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADKF08GF50BOlayF3mGIDjFa/cassandra_phase5_core1.trace.xz [following]
+--2023-01-30 17:38:13--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADKF08GF50BOlayF3mGIDjFa/cassandra_phase5_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc4e9620e483f0d00acfb143511f.dl.dropboxusercontent.com/cd/0/get/B1jpvS-qyM1AoBxDSHrWEM_wBInSoB-DNxfIsuphycfA1TTPCsWCXWVRe1JOLxaHxFpU9JRiV_FTa68Z5ImcTKYOaJlDDNv2kdhKsyVrFxl3sYodxxjSSMpxymYDKQWpLHju-nEHwXmmzur8LXfjLc_FPdSVI604S74lXhFyWwDb7A/file?dl=1# [following]
+--2023-01-30 17:38:13--  https://uc4e9620e483f0d00acfb143511f.dl.dropboxusercontent.com/cd/0/get/B1jpvS-qyM1AoBxDSHrWEM_wBInSoB-DNxfIsuphycfA1TTPCsWCXWVRe1JOLxaHxFpU9JRiV_FTa68Z5ImcTKYOaJlDDNv2kdhKsyVrFxl3sYodxxjSSMpxymYDKQWpLHju-nEHwXmmzur8LXfjLc_FPdSVI604S74lXhFyWwDb7A/file?dl=1
+Resolving uc4e9620e483f0d00acfb143511f.dl.dropboxusercontent.com (uc4e9620e483f0d00acfb143511f.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc4e9620e483f0d00acfb143511f.dl.dropboxusercontent.com (uc4e9620e483f0d00acfb143511f.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51926100 (50M) [application/binary]
+Saving to: ‘../traces//cassandra_phase5_core1.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  49.52M  11.2MB/s    in 4.4s    
+
+2023-01-30 17:38:18 (11.1 MB/s) - ‘../traces//cassandra_phase5_core1.trace.xz’ saved [51926100/51926100]
+
+Downloading cassandra_phase5_core2.trace.xz...
+--2023-01-30 17:38:18--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABi1mUqxJTVxoZKOYzltJ67a/cassandra_phase5_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABi1mUqxJTVxoZKOYzltJ67a/cassandra_phase5_core2.trace.xz [following]
+--2023-01-30 17:38:18--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABi1mUqxJTVxoZKOYzltJ67a/cassandra_phase5_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc0677e09d9f2df9e34beada6268.dl.dropboxusercontent.com/cd/0/get/B1iWnpB67qejKI-hvvMTpGlXopmNHS-5jE5cwaHfeNvoLrQ0GnOQt6GMFM4Y47XTb60xS5SS8_cZZM5EoCruilx_px1saAtonFi_rpXVxj3B_LmZKXPxLI_4921uFRVyxRAnyqLrih6hDUSSkfhnLxafE7IvKrWQV4fZNy9MtBvJ8w/file?dl=1# [following]
+--2023-01-30 17:38:19--  https://uc0677e09d9f2df9e34beada6268.dl.dropboxusercontent.com/cd/0/get/B1iWnpB67qejKI-hvvMTpGlXopmNHS-5jE5cwaHfeNvoLrQ0GnOQt6GMFM4Y47XTb60xS5SS8_cZZM5EoCruilx_px1saAtonFi_rpXVxj3B_LmZKXPxLI_4921uFRVyxRAnyqLrih6hDUSSkfhnLxafE7IvKrWQV4fZNy9MtBvJ8w/file?dl=1
+Resolving uc0677e09d9f2df9e34beada6268.dl.dropboxusercontent.com (uc0677e09d9f2df9e34beada6268.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc0677e09d9f2df9e34beada6268.dl.dropboxusercontent.com (uc0677e09d9f2df9e34beada6268.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45920672 (44M) [application/binary]
+Saving to: ‘../traces//cassandra_phase5_core2.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  43.79M  10.9MB/s    in 4.0s    
+
+2023-01-30 17:38:24 (10.9 MB/s) - ‘../traces//cassandra_phase5_core2.trace.xz’ saved [45920672/45920672]
+
+Downloading cassandra_phase5_core3.trace.xz...
+--2023-01-30 17:38:24--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAD3tJGoGHrwCepQdtWbV-f7a/cassandra_phase5_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAD3tJGoGHrwCepQdtWbV-f7a/cassandra_phase5_core3.trace.xz [following]
+--2023-01-30 17:38:25--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAD3tJGoGHrwCepQdtWbV-f7a/cassandra_phase5_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc71e9fc13f0feb49adbdd04a7c0.dl.dropboxusercontent.com/cd/0/get/B1iW_hbQsF4oZjcNpwsOrNM7WJ05IOERNOB5XkYoSRCiFUgW_hQ8ooI0y6NuSSIGOqjDGylNyX9mQM3-tZhnYmCCFdDEkt4fMHlI56Jv2vpb5-bAukcWV2afGV2jJE3auUo_Aia12MLiEIuF1gMLiPaPdnJR8MPuGZP2rOgZLVhpAA/file?dl=1# [following]
+--2023-01-30 17:38:26--  https://uc71e9fc13f0feb49adbdd04a7c0.dl.dropboxusercontent.com/cd/0/get/B1iW_hbQsF4oZjcNpwsOrNM7WJ05IOERNOB5XkYoSRCiFUgW_hQ8ooI0y6NuSSIGOqjDGylNyX9mQM3-tZhnYmCCFdDEkt4fMHlI56Jv2vpb5-bAukcWV2afGV2jJE3auUo_Aia12MLiEIuF1gMLiPaPdnJR8MPuGZP2rOgZLVhpAA/file?dl=1
+Resolving uc71e9fc13f0feb49adbdd04a7c0.dl.dropboxusercontent.com (uc71e9fc13f0feb49adbdd04a7c0.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc71e9fc13f0feb49adbdd04a7c0.dl.dropboxusercontent.com (uc71e9fc13f0feb49adbdd04a7c0.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48455648 (46M) [application/binary]
+Saving to: ‘../traces//cassandra_phase5_core3.trace.xz’
+
+../traces//cassandra_ 100%[======================>]  46.21M  11.2MB/s    in 4.1s    
+
+2023-01-30 17:38:30 (11.1 MB/s) - ‘../traces//cassandra_phase5_core3.trace.xz’ saved [48455648/48455648]
+
+Downloading cloud9_phase5_core2.trace.xz...
+--2023-01-30 17:38:30--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AACmwWTCc6kRLcnCJHR_--Zba/cloud9_phase5_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AACmwWTCc6kRLcnCJHR_--Zba/cloud9_phase5_core2.trace.xz [following]
+--2023-01-30 17:38:31--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AACmwWTCc6kRLcnCJHR_--Zba/cloud9_phase5_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc24e48ef2d0743aab75ed35b016.dl.dropboxusercontent.com/cd/0/get/B1jYjV4-RuwOPXijGmWKwZs2J95ARGf8uHQZmGpv1P4FpVjIj6lG5hCn8u_Q0AQbDFrtvV7ATP7g2Mw3FRq-psk4Iv4wt5NSyvApRcntqGnRXTgsyAIunLInfom1LXOMQwf_nMTUBFaOChQepC3WcFqYXSSkO6pE4_j3C4CUD72ThA/file?dl=1# [following]
+--2023-01-30 17:38:31--  https://uc24e48ef2d0743aab75ed35b016.dl.dropboxusercontent.com/cd/0/get/B1jYjV4-RuwOPXijGmWKwZs2J95ARGf8uHQZmGpv1P4FpVjIj6lG5hCn8u_Q0AQbDFrtvV7ATP7g2Mw3FRq-psk4Iv4wt5NSyvApRcntqGnRXTgsyAIunLInfom1LXOMQwf_nMTUBFaOChQepC3WcFqYXSSkO6pE4_j3C4CUD72ThA/file?dl=1
+Resolving uc24e48ef2d0743aab75ed35b016.dl.dropboxusercontent.com (uc24e48ef2d0743aab75ed35b016.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc24e48ef2d0743aab75ed35b016.dl.dropboxusercontent.com (uc24e48ef2d0743aab75ed35b016.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17022120 (16M) [application/binary]
+Saving to: ‘../traces//cloud9_phase5_core2.trace.xz’
+
+../traces//cloud9_pha 100%[======================>]  16.23M  11.1MB/s    in 1.5s    
+
+2023-01-30 17:38:33 (11.1 MB/s) - ‘../traces//cloud9_phase5_core2.trace.xz’ saved [17022120/17022120]
+
+Downloading nutch_phase0_core0.trace.xz...
+--2023-01-30 17:38:33--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAjUW-hbYyp_h2owzRMFyZTa/nutch_phase0_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAjUW-hbYyp_h2owzRMFyZTa/nutch_phase0_core0.trace.xz [following]
+--2023-01-30 17:38:33--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAjUW-hbYyp_h2owzRMFyZTa/nutch_phase0_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucb089163499dc203bc25d9719cd.dl.dropboxusercontent.com/cd/0/get/B1jXer9gIrqJPRNwIiy_OrwBlUksyTZ3qpEQll0qhG2q4Am34JtdtTAm_C6waaRMDCitEUxvgrL5EHyFa9nL38sptvMzlc5Q9Pl7yvI4k04RKVOUHFxtLLSN3iqtE7s5KaVYSUA3S8dtkcTsI0ZFpRId6oX-_wxSW1B5wEbhXTVBow/file?dl=1# [following]
+--2023-01-30 17:38:34--  https://ucb089163499dc203bc25d9719cd.dl.dropboxusercontent.com/cd/0/get/B1jXer9gIrqJPRNwIiy_OrwBlUksyTZ3qpEQll0qhG2q4Am34JtdtTAm_C6waaRMDCitEUxvgrL5EHyFa9nL38sptvMzlc5Q9Pl7yvI4k04RKVOUHFxtLLSN3iqtE7s5KaVYSUA3S8dtkcTsI0ZFpRId6oX-_wxSW1B5wEbhXTVBow/file?dl=1
+Resolving ucb089163499dc203bc25d9719cd.dl.dropboxusercontent.com (ucb089163499dc203bc25d9719cd.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucb089163499dc203bc25d9719cd.dl.dropboxusercontent.com (ucb089163499dc203bc25d9719cd.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61727604 (59M) [application/binary]
+Saving to: ‘../traces//nutch_phase0_core0.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  58.87M  11.1MB/s    in 5.3s    
+
+2023-01-30 17:38:41 (11.1 MB/s) - ‘../traces//nutch_phase0_core0.trace.xz’ saved [61727604/61727604]
+
+Downloading nutch_phase0_core1.trace.xz...
+--2023-01-30 17:38:41--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAZyOyrEavNk8yjoHc8nCiRa/nutch_phase0_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAZyOyrEavNk8yjoHc8nCiRa/nutch_phase0_core1.trace.xz [following]
+--2023-01-30 17:38:41--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAZyOyrEavNk8yjoHc8nCiRa/nutch_phase0_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc72991b3209d7f12a272b826253.dl.dropboxusercontent.com/cd/0/get/B1jUPMXPfEV6UtZiFUuJAT09xywEIHbrkS5_T49mBjzY6LoNRi1-4XnSM3_b5Y9qHt_i8CUt4KA1H3KeNz3l6JHP9RS7EJZAWFgnFjet_TK4rlnLisRPnlCLAV0rTV9jCBFvwU04sYdhiOM-tzMz0aqjfbsKM6Js8Uk5K2qysrTDqA/file?dl=1# [following]
+--2023-01-30 17:38:42--  https://uc72991b3209d7f12a272b826253.dl.dropboxusercontent.com/cd/0/get/B1jUPMXPfEV6UtZiFUuJAT09xywEIHbrkS5_T49mBjzY6LoNRi1-4XnSM3_b5Y9qHt_i8CUt4KA1H3KeNz3l6JHP9RS7EJZAWFgnFjet_TK4rlnLisRPnlCLAV0rTV9jCBFvwU04sYdhiOM-tzMz0aqjfbsKM6Js8Uk5K2qysrTDqA/file?dl=1
+Resolving uc72991b3209d7f12a272b826253.dl.dropboxusercontent.com (uc72991b3209d7f12a272b826253.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc72991b3209d7f12a272b826253.dl.dropboxusercontent.com (uc72991b3209d7f12a272b826253.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60232364 (57M) [application/binary]
+Saving to: ‘../traces//nutch_phase0_core1.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  57.44M  11.2MB/s    in 5.2s    
+
+2023-01-30 17:38:47 (11.1 MB/s) - ‘../traces//nutch_phase0_core1.trace.xz’ saved [60232364/60232364]
+
+Downloading nutch_phase0_core2.trace.xz...
+--2023-01-30 17:38:47--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAXQJluT04PIkUvGy48Q_cma/nutch_phase0_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAXQJluT04PIkUvGy48Q_cma/nutch_phase0_core2.trace.xz [following]
+--2023-01-30 17:38:47--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAXQJluT04PIkUvGy48Q_cma/nutch_phase0_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc0935a70e73591b93ab67e276da.dl.dropboxusercontent.com/cd/0/get/B1hSml2MyMgvQC1zCUVDipXGlExggEordzm7auwrQ_BrJp7_or-vnaCRzvGfEunJ1IJPlRsNrreUkp6I84Pd6yfswsg4cspaz_G3glj6hIFhH7fwAjoP96okUK_9XjaNrP2IpL2evdgoUFqwn7vG1DYsNEB0ADq56dVPc7DMaWm6rw/file?dl=1# [following]
+--2023-01-30 17:38:48--  https://uc0935a70e73591b93ab67e276da.dl.dropboxusercontent.com/cd/0/get/B1hSml2MyMgvQC1zCUVDipXGlExggEordzm7auwrQ_BrJp7_or-vnaCRzvGfEunJ1IJPlRsNrreUkp6I84Pd6yfswsg4cspaz_G3glj6hIFhH7fwAjoP96okUK_9XjaNrP2IpL2evdgoUFqwn7vG1DYsNEB0ADq56dVPc7DMaWm6rw/file?dl=1
+Resolving uc0935a70e73591b93ab67e276da.dl.dropboxusercontent.com (uc0935a70e73591b93ab67e276da.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc0935a70e73591b93ab67e276da.dl.dropboxusercontent.com (uc0935a70e73591b93ab67e276da.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61344068 (59M) [application/binary]
+Saving to: ‘../traces//nutch_phase0_core2.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  58.50M  11.1MB/s    in 5.3s    
+
+2023-01-30 17:38:54 (11.1 MB/s) - ‘../traces//nutch_phase0_core2.trace.xz’ saved [61344068/61344068]
+
+Downloading nutch_phase0_core3.trace.xz...
+--2023-01-30 17:38:54--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAA65lroZguCRAs_0DAc0nnya/nutch_phase0_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAA65lroZguCRAs_0DAc0nnya/nutch_phase0_core3.trace.xz [following]
+--2023-01-30 17:38:54--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAA65lroZguCRAs_0DAc0nnya/nutch_phase0_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucdbe223be43d1f2fbe773752cdd.dl.dropboxusercontent.com/cd/0/get/B1htDDsAgs8OIzJ0n7pzrgZRCdYNd8J9T18i4seaWr63kheAsCjzpjTbLdjPmwNZEda2qHNTf8v96jtRirEKB55CZVVgzx4CAJ0GTnaq18yn-3DVYrdiIIEtw50EJMTAtyk7P3lkO45VdaN8OjRXYJseAeb6BF_nt09lqnepeEcWZA/file?dl=1# [following]
+--2023-01-30 17:38:54--  https://ucdbe223be43d1f2fbe773752cdd.dl.dropboxusercontent.com/cd/0/get/B1htDDsAgs8OIzJ0n7pzrgZRCdYNd8J9T18i4seaWr63kheAsCjzpjTbLdjPmwNZEda2qHNTf8v96jtRirEKB55CZVVgzx4CAJ0GTnaq18yn-3DVYrdiIIEtw50EJMTAtyk7P3lkO45VdaN8OjRXYJseAeb6BF_nt09lqnepeEcWZA/file?dl=1
+Resolving ucdbe223be43d1f2fbe773752cdd.dl.dropboxusercontent.com (ucdbe223be43d1f2fbe773752cdd.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucdbe223be43d1f2fbe773752cdd.dl.dropboxusercontent.com (ucdbe223be43d1f2fbe773752cdd.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61816612 (59M) [application/binary]
+Saving to: ‘../traces//nutch_phase0_core3.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  58.95M  8.99MB/s    in 6.0s    
+
+2023-01-30 17:39:01 (9.75 MB/s) - ‘../traces//nutch_phase0_core3.trace.xz’ saved [61816612/61816612]
+
+Downloading nutch_phase1_core0.trace.xz...
+--2023-01-30 17:39:01--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABunvY_kk3MmGBW8MHiS2dGa/nutch_phase1_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABunvY_kk3MmGBW8MHiS2dGa/nutch_phase1_core0.trace.xz [following]
+--2023-01-30 17:39:01--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABunvY_kk3MmGBW8MHiS2dGa/nutch_phase1_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc88b50d231ad0228599b3d63afb.dl.dropboxusercontent.com/cd/0/get/B1hCeNtdA8XOlVe5WzRkeLCS8g7qQ_LuZTdefTAwqvkD0iNKBdjI4jBi49wpr5jePdZ4HMTusWWTzXsE4Z1AVaBWRPgS52SpRSEFO0Q4HUmmdNSv1g3cz5zHW5kC4pWKUadvMv_9FxTYd_QKLp_r13ZxTfas_6ybXUbj-VGnfprDCA/file?dl=1# [following]
+--2023-01-30 17:39:02--  https://uc88b50d231ad0228599b3d63afb.dl.dropboxusercontent.com/cd/0/get/B1hCeNtdA8XOlVe5WzRkeLCS8g7qQ_LuZTdefTAwqvkD0iNKBdjI4jBi49wpr5jePdZ4HMTusWWTzXsE4Z1AVaBWRPgS52SpRSEFO0Q4HUmmdNSv1g3cz5zHW5kC4pWKUadvMv_9FxTYd_QKLp_r13ZxTfas_6ybXUbj-VGnfprDCA/file?dl=1
+Resolving uc88b50d231ad0228599b3d63afb.dl.dropboxusercontent.com (uc88b50d231ad0228599b3d63afb.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc88b50d231ad0228599b3d63afb.dl.dropboxusercontent.com (uc88b50d231ad0228599b3d63afb.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62455860 (60M) [application/binary]
+Saving to: ‘../traces//nutch_phase1_core0.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  59.56M  10.7MB/s    in 5.5s    
+
+2023-01-30 17:39:08 (10.9 MB/s) - ‘../traces//nutch_phase1_core0.trace.xz’ saved [62455860/62455860]
+
+Downloading nutch_phase1_core1.trace.xz...
+--2023-01-30 17:39:08--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADTI05Rye6Y-T31RnnZP7sua/nutch_phase1_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADTI05Rye6Y-T31RnnZP7sua/nutch_phase1_core1.trace.xz [following]
+--2023-01-30 17:39:08--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADTI05Rye6Y-T31RnnZP7sua/nutch_phase1_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucc3d187c777be27cb977e5142eb.dl.dropboxusercontent.com/cd/0/get/B1iZxg9SFQTSablfiUy5XgoAy3MynfGsW5w9Rl2UcH1xALIxNAnb45-7bzoH6ISkPY-zcZ1Ybedca-8DirCWp5uXSEY8ruYAXCrOxMsEKgbl1g2khDja9nbNU4KYkeLYIQKcnoDlef4Fw8Oh1jivX85QOc4CdLJZ7GXFfGBzvf2AkQ/file?dl=1# [following]
+--2023-01-30 17:39:09--  https://ucc3d187c777be27cb977e5142eb.dl.dropboxusercontent.com/cd/0/get/B1iZxg9SFQTSablfiUy5XgoAy3MynfGsW5w9Rl2UcH1xALIxNAnb45-7bzoH6ISkPY-zcZ1Ybedca-8DirCWp5uXSEY8ruYAXCrOxMsEKgbl1g2khDja9nbNU4KYkeLYIQKcnoDlef4Fw8Oh1jivX85QOc4CdLJZ7GXFfGBzvf2AkQ/file?dl=1
+Resolving ucc3d187c777be27cb977e5142eb.dl.dropboxusercontent.com (ucc3d187c777be27cb977e5142eb.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucc3d187c777be27cb977e5142eb.dl.dropboxusercontent.com (ucc3d187c777be27cb977e5142eb.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67528328 (64M) [application/binary]
+Saving to: ‘../traces//nutch_phase1_core1.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  64.40M  11.2MB/s    in 5.8s    
+
+2023-01-30 17:39:15 (11.1 MB/s) - ‘../traces//nutch_phase1_core1.trace.xz’ saved [67528328/67528328]
+
+Downloading nutch_phase1_core2.trace.xz...
+--2023-01-30 17:39:15--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABrsjU00bF62ZCEii0r8eoQa/nutch_phase1_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABrsjU00bF62ZCEii0r8eoQa/nutch_phase1_core2.trace.xz [following]
+--2023-01-30 17:39:15--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABrsjU00bF62ZCEii0r8eoQa/nutch_phase1_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc16847a1ee54587790e13cb6f7b.dl.dropboxusercontent.com/cd/0/get/B1jfV2v0cIiLgcNoUXshuulY0X34tKSgIdnEjC1_RBbD1pKWsM7oaEf-nGkdJ_95SALZ-UBdf4d03dYvElr_gi2bptz0l3drF6uEEL1-GC3S7WtuUPCMNwlaQrRc0R44ECgtUl9suxzcY4MgQppNaEjOdtYEpThRVpm8xMbgPHFNiA/file?dl=1# [following]
+--2023-01-30 17:39:16--  https://uc16847a1ee54587790e13cb6f7b.dl.dropboxusercontent.com/cd/0/get/B1jfV2v0cIiLgcNoUXshuulY0X34tKSgIdnEjC1_RBbD1pKWsM7oaEf-nGkdJ_95SALZ-UBdf4d03dYvElr_gi2bptz0l3drF6uEEL1-GC3S7WtuUPCMNwlaQrRc0R44ECgtUl9suxzcY4MgQppNaEjOdtYEpThRVpm8xMbgPHFNiA/file?dl=1
+Resolving uc16847a1ee54587790e13cb6f7b.dl.dropboxusercontent.com (uc16847a1ee54587790e13cb6f7b.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc16847a1ee54587790e13cb6f7b.dl.dropboxusercontent.com (uc16847a1ee54587790e13cb6f7b.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63849228 (61M) [application/binary]
+Saving to: ‘../traces//nutch_phase1_core2.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  60.89M  10.8MB/s    in 5.6s    
+
+2023-01-30 17:39:22 (10.9 MB/s) - ‘../traces//nutch_phase1_core2.trace.xz’ saved [63849228/63849228]
+
+Downloading nutch_phase1_core3.trace.xz...
+--2023-01-30 17:39:22--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADi0P4Djvlf4QWPwwFBjEpPa/nutch_phase1_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADi0P4Djvlf4QWPwwFBjEpPa/nutch_phase1_core3.trace.xz [following]
+--2023-01-30 17:39:22--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADi0P4Djvlf4QWPwwFBjEpPa/nutch_phase1_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc3ada639026aa9f01fac2b60340.dl.dropboxusercontent.com/cd/0/get/B1iulL2_-4VFqZp73L9uZPglNa1ZG72F8h9f0U8hF1r22dRilBw0zB2T0LOm7bAKmNw0tSoDkPWk7GOOwZXXwJZH3QURnbSsZ3J26R3FbdDeoDeXmCSA2xoNBVNLEgnoNoFNjrhRW4JR4X0sudcUivY5DLU9ycJoLgyaf8HU79a6zw/file?dl=1# [following]
+--2023-01-30 17:39:23--  https://uc3ada639026aa9f01fac2b60340.dl.dropboxusercontent.com/cd/0/get/B1iulL2_-4VFqZp73L9uZPglNa1ZG72F8h9f0U8hF1r22dRilBw0zB2T0LOm7bAKmNw0tSoDkPWk7GOOwZXXwJZH3QURnbSsZ3J26R3FbdDeoDeXmCSA2xoNBVNLEgnoNoFNjrhRW4JR4X0sudcUivY5DLU9ycJoLgyaf8HU79a6zw/file?dl=1
+Resolving uc3ada639026aa9f01fac2b60340.dl.dropboxusercontent.com (uc3ada639026aa9f01fac2b60340.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc3ada639026aa9f01fac2b60340.dl.dropboxusercontent.com (uc3ada639026aa9f01fac2b60340.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64793536 (62M) [application/binary]
+Saving to: ‘../traces//nutch_phase1_core3.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  61.79M  11.2MB/s    in 5.6s    
+
+2023-01-30 17:39:29 (11.0 MB/s) - ‘../traces//nutch_phase1_core3.trace.xz’ saved [64793536/64793536]
+
+Downloading nutch_phase3_core0.trace.xz...
+--2023-01-30 17:39:29--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABPgsfhtRiEa4bO6iipugI0a/nutch_phase3_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABPgsfhtRiEa4bO6iipugI0a/nutch_phase3_core0.trace.xz [following]
+--2023-01-30 17:39:29--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABPgsfhtRiEa4bO6iipugI0a/nutch_phase3_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc48dee68d8c0de84a6cd29a95a2.dl.dropboxusercontent.com/cd/0/get/B1godIgmN8f7VUJXffvcBSkpVA1IVQGk4zcEFY5Svp5AnjLrf602xXwpfK5AyvrQ6NMbVuiSwL394qxW1siz_aa8v6KUiej_hrHwq5aJ96fogP2S_fWpcMFiKQrIpDOjCVzgMNd3sIXbAsAqsJ0t5ctHibA7PAqs5tEZJT03uX9KpQ/file?dl=1# [following]
+--2023-01-30 17:39:30--  https://uc48dee68d8c0de84a6cd29a95a2.dl.dropboxusercontent.com/cd/0/get/B1godIgmN8f7VUJXffvcBSkpVA1IVQGk4zcEFY5Svp5AnjLrf602xXwpfK5AyvrQ6NMbVuiSwL394qxW1siz_aa8v6KUiej_hrHwq5aJ96fogP2S_fWpcMFiKQrIpDOjCVzgMNd3sIXbAsAqsJ0t5ctHibA7PAqs5tEZJT03uX9KpQ/file?dl=1
+Resolving uc48dee68d8c0de84a6cd29a95a2.dl.dropboxusercontent.com (uc48dee68d8c0de84a6cd29a95a2.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc48dee68d8c0de84a6cd29a95a2.dl.dropboxusercontent.com (uc48dee68d8c0de84a6cd29a95a2.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67737328 (65M) [application/binary]
+Saving to: ‘../traces//nutch_phase3_core0.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  64.60M  10.4MB/s    in 6.0s    
+
+2023-01-30 17:39:37 (10.7 MB/s) - ‘../traces//nutch_phase3_core0.trace.xz’ saved [67737328/67737328]
+
+Downloading nutch_phase3_core1.trace.xz...
+--2023-01-30 17:39:37--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABMZhMC3KeSODvzhTZ9v-Nea/nutch_phase3_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABMZhMC3KeSODvzhTZ9v-Nea/nutch_phase3_core1.trace.xz [following]
+--2023-01-30 17:39:37--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABMZhMC3KeSODvzhTZ9v-Nea/nutch_phase3_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc9add3da3f2db09927ae1322ee2.dl.dropboxusercontent.com/cd/0/get/B1gjLtu7aTsSA8TVs62iChoODa-UbejtfFg4walbIRNZueCfJuBRaRC1iQGlLU4UKqnWRNDjmgi2aF6DFp1aLR8ghN4Ksp3SKJPm6_wQKQ8zXP0pxq92c_US6ilerAzAZ8nU1zHMFIJbyGDFP66yts5EshOZ4LpmvZlJB6arJNoY0A/file?dl=1# [following]
+--2023-01-30 17:39:37--  https://uc9add3da3f2db09927ae1322ee2.dl.dropboxusercontent.com/cd/0/get/B1gjLtu7aTsSA8TVs62iChoODa-UbejtfFg4walbIRNZueCfJuBRaRC1iQGlLU4UKqnWRNDjmgi2aF6DFp1aLR8ghN4Ksp3SKJPm6_wQKQ8zXP0pxq92c_US6ilerAzAZ8nU1zHMFIJbyGDFP66yts5EshOZ4LpmvZlJB6arJNoY0A/file?dl=1
+Resolving uc9add3da3f2db09927ae1322ee2.dl.dropboxusercontent.com (uc9add3da3f2db09927ae1322ee2.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc9add3da3f2db09927ae1322ee2.dl.dropboxusercontent.com (uc9add3da3f2db09927ae1322ee2.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60578916 (58M) [application/binary]
+Saving to: ‘../traces//nutch_phase3_core1.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  57.77M  9.72MB/s    in 6.4s    
+
+2023-01-30 17:39:44 (9.08 MB/s) - ‘../traces//nutch_phase3_core1.trace.xz’ saved [60578916/60578916]
+
+Downloading nutch_phase3_core2.trace.xz...
+--2023-01-30 17:39:44--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADAXWpxFacC9FilaKHqSd3la/nutch_phase3_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADAXWpxFacC9FilaKHqSd3la/nutch_phase3_core2.trace.xz [following]
+--2023-01-30 17:39:45--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADAXWpxFacC9FilaKHqSd3la/nutch_phase3_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc7807abf93b91387180ca08d777.dl.dropboxusercontent.com/cd/0/get/B1jcMPS0kroHQSswdtENBdkP-h-vxwBzX-fe2mYPB8if0i1DMn-Ic3iDv65SIo86p2YZAW3SCBE04a4v01XkF4yL7BE_S4TMghsc2bvFCoHt8VDzrGCos_lMcreo2CRiRM_DUmnT9KQR95OmBJVFKt9ia7Yjzm3nzqzBogNmx1qQrg/file?dl=1# [following]
+--2023-01-30 17:39:45--  https://uc7807abf93b91387180ca08d777.dl.dropboxusercontent.com/cd/0/get/B1jcMPS0kroHQSswdtENBdkP-h-vxwBzX-fe2mYPB8if0i1DMn-Ic3iDv65SIo86p2YZAW3SCBE04a4v01XkF4yL7BE_S4TMghsc2bvFCoHt8VDzrGCos_lMcreo2CRiRM_DUmnT9KQR95OmBJVFKt9ia7Yjzm3nzqzBogNmx1qQrg/file?dl=1
+Resolving uc7807abf93b91387180ca08d777.dl.dropboxusercontent.com (uc7807abf93b91387180ca08d777.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc7807abf93b91387180ca08d777.dl.dropboxusercontent.com (uc7807abf93b91387180ca08d777.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64050180 (61M) [application/binary]
+Saving to: ‘../traces//nutch_phase3_core2.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  61.08M  9.83MB/s    in 6.1s    
+
+2023-01-30 17:39:54 (9.96 MB/s) - ‘../traces//nutch_phase3_core2.trace.xz’ saved [64050180/64050180]
+
+Downloading nutch_phase3_core3.trace.xz...
+--2023-01-30 17:39:54--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADUL30Fn5-DBQbw0nQzPedJa/nutch_phase3_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADUL30Fn5-DBQbw0nQzPedJa/nutch_phase3_core3.trace.xz [following]
+--2023-01-30 17:39:54--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADUL30Fn5-DBQbw0nQzPedJa/nutch_phase3_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc5fd7cd2a34a1d4ff0a17dd7a80.dl.dropboxusercontent.com/cd/0/get/B1gxZ3TE54HqjGw-nC6miRWZtA8pVsSj2U5lLYSOVb0l4m3ZgXgBpt2vtu_zoR93vb4hYqlF1Zg28tbrpARmHcy7HeP4W3wMsa-tleGzGPBpC47Eq30MU7KPXmrTnCO87Fm4ALIQPydS11uqVGFbcSOqgigZzoANqXzi2PDDugCSzw/file?dl=1# [following]
+--2023-01-30 17:39:55--  https://uc5fd7cd2a34a1d4ff0a17dd7a80.dl.dropboxusercontent.com/cd/0/get/B1gxZ3TE54HqjGw-nC6miRWZtA8pVsSj2U5lLYSOVb0l4m3ZgXgBpt2vtu_zoR93vb4hYqlF1Zg28tbrpARmHcy7HeP4W3wMsa-tleGzGPBpC47Eq30MU7KPXmrTnCO87Fm4ALIQPydS11uqVGFbcSOqgigZzoANqXzi2PDDugCSzw/file?dl=1
+Resolving uc5fd7cd2a34a1d4ff0a17dd7a80.dl.dropboxusercontent.com (uc5fd7cd2a34a1d4ff0a17dd7a80.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc5fd7cd2a34a1d4ff0a17dd7a80.dl.dropboxusercontent.com (uc5fd7cd2a34a1d4ff0a17dd7a80.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67955704 (65M) [application/binary]
+Saving to: ‘../traces//nutch_phase3_core3.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  64.81M  10.2MB/s    in 6.2s    
+
+2023-01-30 17:40:01 (10.5 MB/s) - ‘../traces//nutch_phase3_core3.trace.xz’ saved [67955704/67955704]
+
+Downloading nutch_phase4_core0.trace.xz...
+--2023-01-30 17:40:01--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADSDmEzpBEPXx12pUOZ67cqa/nutch_phase4_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADSDmEzpBEPXx12pUOZ67cqa/nutch_phase4_core0.trace.xz [following]
+--2023-01-30 17:40:02--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADSDmEzpBEPXx12pUOZ67cqa/nutch_phase4_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uce04d878a3e2e4478add8dcfb7f.dl.dropboxusercontent.com/cd/0/get/B1j0P201DgfCTjkzPwtqbBp3iFoZCXbSpDnEZA346COSR0qafPBaVYQYh55gyZANQ_HR4-FkmkTKAZVUiuS7ynKrv6p9J7wo0cQUYHzoxArbDlw68-T1qlxAAMzDWLkGklHmkwUFAU_Q8aEiXGfYYlc8_-UcZE5QSeygjGwqHm_Wyg/file?dl=1# [following]
+--2023-01-30 17:40:02--  https://uce04d878a3e2e4478add8dcfb7f.dl.dropboxusercontent.com/cd/0/get/B1j0P201DgfCTjkzPwtqbBp3iFoZCXbSpDnEZA346COSR0qafPBaVYQYh55gyZANQ_HR4-FkmkTKAZVUiuS7ynKrv6p9J7wo0cQUYHzoxArbDlw68-T1qlxAAMzDWLkGklHmkwUFAU_Q8aEiXGfYYlc8_-UcZE5QSeygjGwqHm_Wyg/file?dl=1
+Resolving uce04d878a3e2e4478add8dcfb7f.dl.dropboxusercontent.com (uce04d878a3e2e4478add8dcfb7f.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uce04d878a3e2e4478add8dcfb7f.dl.dropboxusercontent.com (uce04d878a3e2e4478add8dcfb7f.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63806104 (61M) [application/binary]
+Saving to: ‘../traces//nutch_phase4_core0.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  60.85M  9.25MB/s    in 6.0s    
+
+2023-01-30 17:40:09 (10.1 MB/s) - ‘../traces//nutch_phase4_core0.trace.xz’ saved [63806104/63806104]
+
+Downloading nutch_phase4_core1.trace.xz...
+--2023-01-30 17:40:09--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABhSiw5yfFjZzjbhSOprIiJa/nutch_phase4_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABhSiw5yfFjZzjbhSOprIiJa/nutch_phase4_core1.trace.xz [following]
+--2023-01-30 17:40:09--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABhSiw5yfFjZzjbhSOprIiJa/nutch_phase4_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc1f3a070594c6d9531f333cb9d8.dl.dropboxusercontent.com/cd/0/get/B1hX_ldoMz3jArdVQQ_xriHOZxGl3_ojgYXRWWpEt7zLwHUmGlI9-szuvdWa2DqUZCIA8nes44BuBz1v1Chx0K60xV6F0a3_qn2lPA2IWxu_VQUctzPy-diX66p7_FsM0YyseYnqzWFme86PhXgxZfMm5KmhKF507aXV7VRdOj_SjA/file?dl=1# [following]
+--2023-01-30 17:40:10--  https://uc1f3a070594c6d9531f333cb9d8.dl.dropboxusercontent.com/cd/0/get/B1hX_ldoMz3jArdVQQ_xriHOZxGl3_ojgYXRWWpEt7zLwHUmGlI9-szuvdWa2DqUZCIA8nes44BuBz1v1Chx0K60xV6F0a3_qn2lPA2IWxu_VQUctzPy-diX66p7_FsM0YyseYnqzWFme86PhXgxZfMm5KmhKF507aXV7VRdOj_SjA/file?dl=1
+Resolving uc1f3a070594c6d9531f333cb9d8.dl.dropboxusercontent.com (uc1f3a070594c6d9531f333cb9d8.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc1f3a070594c6d9531f333cb9d8.dl.dropboxusercontent.com (uc1f3a070594c6d9531f333cb9d8.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65928784 (63M) [application/binary]
+Saving to: ‘../traces//nutch_phase4_core1.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  62.87M  9.86MB/s    in 6.7s    
+
+2023-01-30 17:40:17 (9.32 MB/s) - ‘../traces//nutch_phase4_core1.trace.xz’ saved [65928784/65928784]
+
+Downloading nutch_phase4_core2.trace.xz...
+--2023-01-30 17:40:17--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAPSVcr7Ct5hiRJJ49OaBJDa/nutch_phase4_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAPSVcr7Ct5hiRJJ49OaBJDa/nutch_phase4_core2.trace.xz [following]
+--2023-01-30 17:40:17--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAPSVcr7Ct5hiRJJ49OaBJDa/nutch_phase4_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc2b2a8e6fc3679f5c527b287bc9.dl.dropboxusercontent.com/cd/0/get/B1j5_YXPOsb5_V2ArYhUZ9LfqaHbu2ic4CjL_TLwxXSmrKjQOWZJE7022PkI-UXDhIiXgWT_EN7SV-b7VOsgIWB-CIpA0YL5ThAA69oXik7ZzWXM6HF1uQWnRYsO-GyOL6tE3e6heYsryv0Om75U-nxGYSRvUT3UebDVbyahRe7WQA/file?dl=1# [following]
+--2023-01-30 17:40:18--  https://uc2b2a8e6fc3679f5c527b287bc9.dl.dropboxusercontent.com/cd/0/get/B1j5_YXPOsb5_V2ArYhUZ9LfqaHbu2ic4CjL_TLwxXSmrKjQOWZJE7022PkI-UXDhIiXgWT_EN7SV-b7VOsgIWB-CIpA0YL5ThAA69oXik7ZzWXM6HF1uQWnRYsO-GyOL6tE3e6heYsryv0Om75U-nxGYSRvUT3UebDVbyahRe7WQA/file?dl=1
+Resolving uc2b2a8e6fc3679f5c527b287bc9.dl.dropboxusercontent.com (uc2b2a8e6fc3679f5c527b287bc9.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc2b2a8e6fc3679f5c527b287bc9.dl.dropboxusercontent.com (uc2b2a8e6fc3679f5c527b287bc9.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62055048 (59M) [application/binary]
+Saving to: ‘../traces//nutch_phase4_core2.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  59.18M  11.1MB/s    in 5.4s    
+
+2023-01-30 17:40:28 (11.0 MB/s) - ‘../traces//nutch_phase4_core2.trace.xz’ saved [62055048/62055048]
+
+Downloading nutch_phase4_core3.trace.xz...
+--2023-01-30 17:40:28--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAA2JMbDLmru1k5sbi9pmYoPa/nutch_phase4_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAA2JMbDLmru1k5sbi9pmYoPa/nutch_phase4_core3.trace.xz [following]
+--2023-01-30 17:40:28--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAA2JMbDLmru1k5sbi9pmYoPa/nutch_phase4_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc8f737ba8da22425cc7d21f8355.dl.dropboxusercontent.com/cd/0/get/B1i6THtZxhJppgA3F6X1vVLFlVQhluBwoAAlu2wIPyqVH9i9r_KJwXAeNPEdRhaSM_ETJwVkLC6aVpBxSjGdV6AtZ23uI97HuTEh8btBcG7_MGrJWMEfKOrlYVRutmsVRgdbPzu4ekmcOaC8r73LIkoAlU1vRVat9IiCh_N8BeOLCw/file?dl=1# [following]
+--2023-01-30 17:40:28--  https://uc8f737ba8da22425cc7d21f8355.dl.dropboxusercontent.com/cd/0/get/B1i6THtZxhJppgA3F6X1vVLFlVQhluBwoAAlu2wIPyqVH9i9r_KJwXAeNPEdRhaSM_ETJwVkLC6aVpBxSjGdV6AtZ23uI97HuTEh8btBcG7_MGrJWMEfKOrlYVRutmsVRgdbPzu4ekmcOaC8r73LIkoAlU1vRVat9IiCh_N8BeOLCw/file?dl=1
+Resolving uc8f737ba8da22425cc7d21f8355.dl.dropboxusercontent.com (uc8f737ba8da22425cc7d21f8355.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc8f737ba8da22425cc7d21f8355.dl.dropboxusercontent.com (uc8f737ba8da22425cc7d21f8355.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65936824 (63M) [application/binary]
+Saving to: ‘../traces//nutch_phase4_core3.trace.xz’
+
+../traces//nutch_phas 100%[======================>]  62.88M  11.1MB/s    in 5.7s    
+
+2023-01-30 17:40:35 (11.1 MB/s) - ‘../traces//nutch_phase4_core3.trace.xz’ saved [65936824/65936824]
+
+Downloading streaming_phase0_core1.trace.xz...
+--2023-01-30 17:40:35--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AACRpuR27NjH3l9gmZq5hU2Xa/streaming_phase0_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AACRpuR27NjH3l9gmZq5hU2Xa/streaming_phase0_core1.trace.xz [following]
+--2023-01-30 17:40:35--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AACRpuR27NjH3l9gmZq5hU2Xa/streaming_phase0_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc05cc80afcdc8dc1cb9ecf32fde.dl.dropboxusercontent.com/cd/0/get/B1jLT2YEL9OCgEOXaWJXNTl-bxFA2PB0fpqru7A4hxPG1GUr7dk4fTrItZoDE4WCZEyfL_kO9ZhByXFhf53evmYOoiGRPv5APcmc8Jeq0WAkQsxXcLj-LguaskCnvBqZzUC8nPF7th1Vb-xxaBHVWFmPLXrKZHt2H6raIQf59a1Scw/file?dl=1# [following]
+--2023-01-30 17:40:36--  https://uc05cc80afcdc8dc1cb9ecf32fde.dl.dropboxusercontent.com/cd/0/get/B1jLT2YEL9OCgEOXaWJXNTl-bxFA2PB0fpqru7A4hxPG1GUr7dk4fTrItZoDE4WCZEyfL_kO9ZhByXFhf53evmYOoiGRPv5APcmc8Jeq0WAkQsxXcLj-LguaskCnvBqZzUC8nPF7th1Vb-xxaBHVWFmPLXrKZHt2H6raIQf59a1Scw/file?dl=1
+Resolving uc05cc80afcdc8dc1cb9ecf32fde.dl.dropboxusercontent.com (uc05cc80afcdc8dc1cb9ecf32fde.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc05cc80afcdc8dc1cb9ecf32fde.dl.dropboxusercontent.com (uc05cc80afcdc8dc1cb9ecf32fde.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63960908 (61M) [application/binary]
+Saving to: ‘../traces//streaming_phase0_core1.trace.xz’
+
+../traces//streaming_ 100%[======================>]  61.00M  11.2MB/s    in 5.5s    
+
+2023-01-30 17:40:42 (11.0 MB/s) - ‘../traces//streaming_phase0_core1.trace.xz’ saved [63960908/63960908]
+
+Downloading streaming_phase1_core0.trace.xz...
+--2023-01-30 17:40:42--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAuL2ATor_Tn4WAachdffwRa/streaming_phase1_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAuL2ATor_Tn4WAachdffwRa/streaming_phase1_core0.trace.xz [following]
+--2023-01-30 17:40:42--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAuL2ATor_Tn4WAachdffwRa/streaming_phase1_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc557d52c872675ce0184b69b77f.dl.dropboxusercontent.com/cd/0/get/B1hGzZymDuvW0u3Xu5ozhAdmH8ibDT1przs8Iv9Hf3NyZo5fWq0sxOEkHmIR6S_GcnvT9lXkhKYvmSWpSOmwVr0xcF-sPJ1F-cOQXtBxZtKUv9mwINTr_Tu_dM0Kmd0LusjxYWP9HrAyv5JbiAn6pmYlr8jtqfw1Ahas9xYZp8kfqw/file?dl=1# [following]
+--2023-01-30 17:40:43--  https://uc557d52c872675ce0184b69b77f.dl.dropboxusercontent.com/cd/0/get/B1hGzZymDuvW0u3Xu5ozhAdmH8ibDT1przs8Iv9Hf3NyZo5fWq0sxOEkHmIR6S_GcnvT9lXkhKYvmSWpSOmwVr0xcF-sPJ1F-cOQXtBxZtKUv9mwINTr_Tu_dM0Kmd0LusjxYWP9HrAyv5JbiAn6pmYlr8jtqfw1Ahas9xYZp8kfqw/file?dl=1
+Resolving uc557d52c872675ce0184b69b77f.dl.dropboxusercontent.com (uc557d52c872675ce0184b69b77f.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc557d52c872675ce0184b69b77f.dl.dropboxusercontent.com (uc557d52c872675ce0184b69b77f.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64055480 (61M) [application/binary]
+Saving to: ‘../traces//streaming_phase1_core0.trace.xz’
+
+../traces//streaming_ 100%[======================>]  61.09M  11.2MB/s    in 5.5s    
+
+2023-01-30 17:40:49 (11.2 MB/s) - ‘../traces//streaming_phase1_core0.trace.xz’ saved [64055480/64055480]
+
+Downloading streaming_phase1_core1.trace.xz...
+--2023-01-30 17:40:49--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADD2xgHlOiP0_-2DNoZ1Wpza/streaming_phase1_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADD2xgHlOiP0_-2DNoZ1Wpza/streaming_phase1_core1.trace.xz [following]
+--2023-01-30 17:40:49--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADD2xgHlOiP0_-2DNoZ1Wpza/streaming_phase1_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc4f23627a1dceddc3a0ee7fb8a0.dl.dropboxusercontent.com/cd/0/get/B1hEFzW4UNdl6_gwhlRqRv_dRyAQohPYeaZplfCNzVF6huhkYXITmt8OCNbWI4-wWX7B-CvqHBJ48uRAHSwYmCsAbSAcZ_mSZih8KfztkFOT_BD16Lomlx4lMJU0zbHNJo3C6EE4J-QxBra-XwZB8vJ-o8M00oEpv8CI5SYlQyX60Q/file?dl=1# [following]
+--2023-01-30 17:40:50--  https://uc4f23627a1dceddc3a0ee7fb8a0.dl.dropboxusercontent.com/cd/0/get/B1hEFzW4UNdl6_gwhlRqRv_dRyAQohPYeaZplfCNzVF6huhkYXITmt8OCNbWI4-wWX7B-CvqHBJ48uRAHSwYmCsAbSAcZ_mSZih8KfztkFOT_BD16Lomlx4lMJU0zbHNJo3C6EE4J-QxBra-XwZB8vJ-o8M00oEpv8CI5SYlQyX60Q/file?dl=1
+Resolving uc4f23627a1dceddc3a0ee7fb8a0.dl.dropboxusercontent.com (uc4f23627a1dceddc3a0ee7fb8a0.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc4f23627a1dceddc3a0ee7fb8a0.dl.dropboxusercontent.com (uc4f23627a1dceddc3a0ee7fb8a0.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64500780 (62M) [application/binary]
+Saving to: ‘../traces//streaming_phase1_core1.trace.xz’
+
+../traces//streaming_ 100%[======================>]  61.51M  11.2MB/s    in 5.5s    
+
+2023-01-30 17:40:56 (11.2 MB/s) - ‘../traces//streaming_phase1_core1.trace.xz’ saved [64500780/64500780]
+
+Downloading streaming_phase1_core3.trace.xz...
+--2023-01-30 17:40:56--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABw3TDgu1DEwihwn0q-Vhuna/streaming_phase1_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABw3TDgu1DEwihwn0q-Vhuna/streaming_phase1_core3.trace.xz [following]
+--2023-01-30 17:40:56--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABw3TDgu1DEwihwn0q-Vhuna/streaming_phase1_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uce8d4fde824c5e043e2f34db520.dl.dropboxusercontent.com/cd/0/get/B1jdQuKmrxCRH5JFPyI7tSN4XNKMLzW_6CnuSRRJKqI-3S-qMCrItpYg8OnATrSpbVkhHNmKuWYAWH15nNBBPtMburrrs5zifACvgmZz2DMxqWa-KNKFb5DbbyjX4886WsyT7iFelib1SeJhOh1byGWcLx2tQXP45pN0xIM-hzAWNw/file?dl=1# [following]
+--2023-01-30 17:40:57--  https://uce8d4fde824c5e043e2f34db520.dl.dropboxusercontent.com/cd/0/get/B1jdQuKmrxCRH5JFPyI7tSN4XNKMLzW_6CnuSRRJKqI-3S-qMCrItpYg8OnATrSpbVkhHNmKuWYAWH15nNBBPtMburrrs5zifACvgmZz2DMxqWa-KNKFb5DbbyjX4886WsyT7iFelib1SeJhOh1byGWcLx2tQXP45pN0xIM-hzAWNw/file?dl=1
+Resolving uce8d4fde824c5e043e2f34db520.dl.dropboxusercontent.com (uce8d4fde824c5e043e2f34db520.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uce8d4fde824c5e043e2f34db520.dl.dropboxusercontent.com (uce8d4fde824c5e043e2f34db520.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64759796 (62M) [application/binary]
+Saving to: ‘../traces//streaming_phase1_core3.trace.xz’
+
+../traces//streaming_ 100%[======================>]  61.76M  11.2MB/s    in 5.5s    
+
+2023-01-30 17:41:03 (11.1 MB/s) - ‘../traces//streaming_phase1_core3.trace.xz’ saved [64759796/64759796]
+
+Downloading streaming_phase2_core0.trace.xz...
+--2023-01-30 17:41:03--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADRo_URstzVgdWZxrBMHIP4a/streaming_phase2_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADRo_URstzVgdWZxrBMHIP4a/streaming_phase2_core0.trace.xz [following]
+--2023-01-30 17:41:03--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADRo_URstzVgdWZxrBMHIP4a/streaming_phase2_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucb257d9af8cc5329b3acf9ce448.dl.dropboxusercontent.com/cd/0/get/B1gbG7FsLX2l1VbI3gCO7_q5z0BzhqubkoMgDiRjUtKu9ZiI2Y_Y8YYxF563GwUKTuVHFQncL3uHQM7MrAfxc8HyxxvVwtk1pFEHm_o3hzOgJnFe5RWFQyAOS5yu2BwYHssuQIt7NvtO8l_mlOvPQsSH3kYK33jsV5bkoYKobyhQgA/file?dl=1# [following]
+--2023-01-30 17:41:04--  https://ucb257d9af8cc5329b3acf9ce448.dl.dropboxusercontent.com/cd/0/get/B1gbG7FsLX2l1VbI3gCO7_q5z0BzhqubkoMgDiRjUtKu9ZiI2Y_Y8YYxF563GwUKTuVHFQncL3uHQM7MrAfxc8HyxxvVwtk1pFEHm_o3hzOgJnFe5RWFQyAOS5yu2BwYHssuQIt7NvtO8l_mlOvPQsSH3kYK33jsV5bkoYKobyhQgA/file?dl=1
+Resolving ucb257d9af8cc5329b3acf9ce448.dl.dropboxusercontent.com (ucb257d9af8cc5329b3acf9ce448.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucb257d9af8cc5329b3acf9ce448.dl.dropboxusercontent.com (ucb257d9af8cc5329b3acf9ce448.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68461572 (65M) [application/binary]
+Saving to: ‘../traces//streaming_phase2_core0.trace.xz’
+
+../traces//streaming_ 100%[======================>]  65.29M  11.2MB/s    in 5.9s    
+
+2023-01-30 17:41:10 (11.2 MB/s) - ‘../traces//streaming_phase2_core0.trace.xz’ saved [68461572/68461572]
+
+Downloading streaming_phase2_core1.trace.xz...
+--2023-01-30 17:41:10--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAQv_2QR4PvodBlBv8_c_pKa/streaming_phase2_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAQv_2QR4PvodBlBv8_c_pKa/streaming_phase2_core1.trace.xz [following]
+--2023-01-30 17:41:10--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAQv_2QR4PvodBlBv8_c_pKa/streaming_phase2_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucf31b80d7d5f54196479e919fa5.dl.dropboxusercontent.com/cd/0/get/B1gmMPdKVBpTaIf3VNXMmQ-I_Z3oMEHATXlEPbZjS-0cMNIX2XvkFbNK5mrA_rBUTX1wkXl_CEzPnBazZ2FYeTPT4Qa46Z0m8MK1UOr3BugRJOTMPwEJVgmUpN0boMEVggEk5ZWbKwyIYW4UN_6gVx8w2S6wgIZvj0S1BJkmC_HfwA/file?dl=1# [following]
+--2023-01-30 17:41:11--  https://ucf31b80d7d5f54196479e919fa5.dl.dropboxusercontent.com/cd/0/get/B1gmMPdKVBpTaIf3VNXMmQ-I_Z3oMEHATXlEPbZjS-0cMNIX2XvkFbNK5mrA_rBUTX1wkXl_CEzPnBazZ2FYeTPT4Qa46Z0m8MK1UOr3BugRJOTMPwEJVgmUpN0boMEVggEk5ZWbKwyIYW4UN_6gVx8w2S6wgIZvj0S1BJkmC_HfwA/file?dl=1
+Resolving ucf31b80d7d5f54196479e919fa5.dl.dropboxusercontent.com (ucf31b80d7d5f54196479e919fa5.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucf31b80d7d5f54196479e919fa5.dl.dropboxusercontent.com (ucf31b80d7d5f54196479e919fa5.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63420464 (60M) [application/binary]
+Saving to: ‘../traces//streaming_phase2_core1.trace.xz’
+
+../traces//streaming_ 100%[======================>]  60.48M  11.2MB/s    in 5.4s    
+
+2023-01-30 17:41:17 (11.1 MB/s) - ‘../traces//streaming_phase2_core1.trace.xz’ saved [63420464/63420464]
+
+Downloading streaming_phase2_core2.trace.xz...
+--2023-01-30 17:41:17--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AADb_UhbK1P2hQ4a0zc2IFAQa/streaming_phase2_core2.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AADb_UhbK1P2hQ4a0zc2IFAQa/streaming_phase2_core2.trace.xz [following]
+--2023-01-30 17:41:17--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AADb_UhbK1P2hQ4a0zc2IFAQa/streaming_phase2_core2.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucc29948ac70b80a56b0f1f411a0.dl.dropboxusercontent.com/cd/0/get/B1hzlkSIJvs7DruRLaEnmz5O6j81i60KjiLP5up3FIYGHHlNtM5oi5WkBEQDgvkWsAyKy1SmDvRvmdbHRN0j7yxsivzffMEHKniqTNWZyVP6S6vBP20uFIiP4RsoiKp8hJG-U_cx7ePWFtIbVNZjwaNWmWqnxtsvQ82WF8773k4xrA/file?dl=1# [following]
+--2023-01-30 17:41:18--  https://ucc29948ac70b80a56b0f1f411a0.dl.dropboxusercontent.com/cd/0/get/B1hzlkSIJvs7DruRLaEnmz5O6j81i60KjiLP5up3FIYGHHlNtM5oi5WkBEQDgvkWsAyKy1SmDvRvmdbHRN0j7yxsivzffMEHKniqTNWZyVP6S6vBP20uFIiP4RsoiKp8hJG-U_cx7ePWFtIbVNZjwaNWmWqnxtsvQ82WF8773k4xrA/file?dl=1
+Resolving ucc29948ac70b80a56b0f1f411a0.dl.dropboxusercontent.com (ucc29948ac70b80a56b0f1f411a0.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucc29948ac70b80a56b0f1f411a0.dl.dropboxusercontent.com (ucc29948ac70b80a56b0f1f411a0.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59095812 (56M) [application/binary]
+Saving to: ‘../traces//streaming_phase2_core2.trace.xz’
+
+../traces//streaming_ 100%[======================>]  56.36M  11.1MB/s    in 5.1s    
+
+2023-01-30 17:41:23 (11.1 MB/s) - ‘../traces//streaming_phase2_core2.trace.xz’ saved [59095812/59095812]
+
+Downloading streaming_phase2_core3.trace.xz...
+--2023-01-30 17:41:23--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAeOUlM_xbFGhSW46NtqaMxa/streaming_phase2_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAeOUlM_xbFGhSW46NtqaMxa/streaming_phase2_core3.trace.xz [following]
+--2023-01-30 17:41:24--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAeOUlM_xbFGhSW46NtqaMxa/streaming_phase2_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc3ea64d0bef7e2a2ecf83a67169.dl.dropboxusercontent.com/cd/0/get/B1hkfwSPLPoJHer3NkcYmaYqCN22eCAgENed4XaXTlhB-JUThGV32KtQhfVI9LwgsTf1NGSeUGZmtRuScYiNmbSYYWNAFDSg_iR3vR-t_B8Hz0HUOXwdVcsZsLYOmpXdz948VUsIB3ZYsWckYU-W8nnFsAFL3kS-fO4v_z_k7LmRUg/file?dl=1# [following]
+--2023-01-30 17:41:24--  https://uc3ea64d0bef7e2a2ecf83a67169.dl.dropboxusercontent.com/cd/0/get/B1hkfwSPLPoJHer3NkcYmaYqCN22eCAgENed4XaXTlhB-JUThGV32KtQhfVI9LwgsTf1NGSeUGZmtRuScYiNmbSYYWNAFDSg_iR3vR-t_B8Hz0HUOXwdVcsZsLYOmpXdz948VUsIB3ZYsWckYU-W8nnFsAFL3kS-fO4v_z_k7LmRUg/file?dl=1
+Resolving uc3ea64d0bef7e2a2ecf83a67169.dl.dropboxusercontent.com (uc3ea64d0bef7e2a2ecf83a67169.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc3ea64d0bef7e2a2ecf83a67169.dl.dropboxusercontent.com (uc3ea64d0bef7e2a2ecf83a67169.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65995300 (63M) [application/binary]
+Saving to: ‘../traces//streaming_phase2_core3.trace.xz’
+
+../traces//streaming_ 100%[======================>]  62.94M  11.2MB/s    in 5.6s    
+
+2023-01-30 17:41:31 (11.2 MB/s) - ‘../traces//streaming_phase2_core3.trace.xz’ saved [65995300/65995300]
+
+Downloading streaming_phase3_core0.trace.xz...
+--2023-01-30 17:41:31--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AACssBjTLo4fn1zCj7tD54nha/streaming_phase3_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AACssBjTLo4fn1zCj7tD54nha/streaming_phase3_core0.trace.xz [following]
+--2023-01-30 17:41:31--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AACssBjTLo4fn1zCj7tD54nha/streaming_phase3_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uca3a2528bb5643f9c9fb9dc96a3.dl.dropboxusercontent.com/cd/0/get/B1grHQPMlzRSQ9M8-Pv_h653T6Gg3h4FC74SwtwnH2bbFVtqpue-B5Hkj9wGUBb8h4lPxRID4WvHzQKDoBfiI_zJDrvwh30ID9iH0uvu9aVQXv5Uv9hdfrfK0KQ0Y4BnrpnNla3vJYCZHmsAx08lprgE0LX0q81ix-h_8hQfzyIB4g/file?dl=1# [following]
+--2023-01-30 17:41:32--  https://uca3a2528bb5643f9c9fb9dc96a3.dl.dropboxusercontent.com/cd/0/get/B1grHQPMlzRSQ9M8-Pv_h653T6Gg3h4FC74SwtwnH2bbFVtqpue-B5Hkj9wGUBb8h4lPxRID4WvHzQKDoBfiI_zJDrvwh30ID9iH0uvu9aVQXv5Uv9hdfrfK0KQ0Y4BnrpnNla3vJYCZHmsAx08lprgE0LX0q81ix-h_8hQfzyIB4g/file?dl=1
+Resolving uca3a2528bb5643f9c9fb9dc96a3.dl.dropboxusercontent.com (uca3a2528bb5643f9c9fb9dc96a3.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uca3a2528bb5643f9c9fb9dc96a3.dl.dropboxusercontent.com (uca3a2528bb5643f9c9fb9dc96a3.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73871280 (70M) [application/binary]
+Saving to: ‘../traces//streaming_phase3_core0.trace.xz’
+
+../traces//streaming_ 100%[======================>]  70.45M  11.1MB/s    in 6.3s    
+
+2023-01-30 17:41:39 (11.1 MB/s) - ‘../traces//streaming_phase3_core0.trace.xz’ saved [73871280/73871280]
+
+Downloading streaming_phase3_core1.trace.xz...
+--2023-01-30 17:41:39--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAC5nefbMiAMYQysGwRtF5Jra/streaming_phase3_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAC5nefbMiAMYQysGwRtF5Jra/streaming_phase3_core1.trace.xz [following]
+--2023-01-30 17:41:39--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAC5nefbMiAMYQysGwRtF5Jra/streaming_phase3_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc600c698872967c090975f3b108.dl.dropboxusercontent.com/cd/0/get/B1hDH-ap7oArns1JhBb7_bub9HLw4Gs3eenohaHIlkkj8ljHcTftjb-llgWvMzRWbQPvhL7Z-ZqbMJZ8PRQflzaixhXTF57rMri49WGhqPQcQ_F7DgzoXLHLzP2oA38hZnuo5WHSoAZbj3Dzg4lWHxr0GM_nWK1sOLmgNeFC8vqkpQ/file?dl=1# [following]
+--2023-01-30 17:41:39--  https://uc600c698872967c090975f3b108.dl.dropboxusercontent.com/cd/0/get/B1hDH-ap7oArns1JhBb7_bub9HLw4Gs3eenohaHIlkkj8ljHcTftjb-llgWvMzRWbQPvhL7Z-ZqbMJZ8PRQflzaixhXTF57rMri49WGhqPQcQ_F7DgzoXLHLzP2oA38hZnuo5WHSoAZbj3Dzg4lWHxr0GM_nWK1sOLmgNeFC8vqkpQ/file?dl=1
+Resolving uc600c698872967c090975f3b108.dl.dropboxusercontent.com (uc600c698872967c090975f3b108.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc600c698872967c090975f3b108.dl.dropboxusercontent.com (uc600c698872967c090975f3b108.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73132280 (70M) [application/binary]
+Saving to: ‘../traces//streaming_phase3_core1.trace.xz’
+
+../traces//streaming_ 100%[======================>]  69.74M  11.2MB/s    in 6.3s    
+
+2023-01-30 17:41:46 (11.2 MB/s) - ‘../traces//streaming_phase3_core1.trace.xz’ saved [73132280/73132280]
+
+Downloading streaming_phase3_core3.trace.xz...
+--2023-01-30 17:41:46--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAabaQn8KjNzFmuU1Yr0jzXa/streaming_phase3_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAabaQn8KjNzFmuU1Yr0jzXa/streaming_phase3_core3.trace.xz [following]
+--2023-01-30 17:41:47--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAabaQn8KjNzFmuU1Yr0jzXa/streaming_phase3_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uce3b8d39dacbaec7e7e8d149dbe.dl.dropboxusercontent.com/cd/0/get/B1h1REsFsD3_7kxTbb-UE2cjI1etxYz7MqbyHCnteaVV3fXYGj0p0lyerrogeGEIqVlFrBmmh_mUmccs0xGSC1J4rFcc9nTjyibIUD9EagWMMyswwvgKPsgyD2wibslkt1ia7buZ2Xg4ySqLMcIPuTWfdkuDiuC3eZLIDDINoSNqGA/file?dl=1# [following]
+--2023-01-30 17:41:47--  https://uce3b8d39dacbaec7e7e8d149dbe.dl.dropboxusercontent.com/cd/0/get/B1h1REsFsD3_7kxTbb-UE2cjI1etxYz7MqbyHCnteaVV3fXYGj0p0lyerrogeGEIqVlFrBmmh_mUmccs0xGSC1J4rFcc9nTjyibIUD9EagWMMyswwvgKPsgyD2wibslkt1ia7buZ2Xg4ySqLMcIPuTWfdkuDiuC3eZLIDDINoSNqGA/file?dl=1
+Resolving uce3b8d39dacbaec7e7e8d149dbe.dl.dropboxusercontent.com (uce3b8d39dacbaec7e7e8d149dbe.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uce3b8d39dacbaec7e7e8d149dbe.dl.dropboxusercontent.com (uce3b8d39dacbaec7e7e8d149dbe.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71141600 (68M) [application/binary]
+Saving to: ‘../traces//streaming_phase3_core3.trace.xz’
+
+../traces//streaming_ 100%[======================>]  67.85M  11.2MB/s    in 6.1s    
+
+2023-01-30 17:41:54 (11.2 MB/s) - ‘../traces//streaming_phase3_core3.trace.xz’ saved [71141600/71141600]
+
+Downloading streaming_phase4_core0.trace.xz...
+--2023-01-30 17:41:54--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAD2qWjqpjd9KM7zYXgTYk7ra/streaming_phase4_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAD2qWjqpjd9KM7zYXgTYk7ra/streaming_phase4_core0.trace.xz [following]
+--2023-01-30 17:41:54--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAD2qWjqpjd9KM7zYXgTYk7ra/streaming_phase4_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucd00fa48d1cf3ff4566baf61f10.dl.dropboxusercontent.com/cd/0/get/B1hPugB_Jj7BXai_eqqedjdYCYOjmg0AzBvlpJgPitwcJEVxM8BixFJSys5fo8kgbaWwG7cfVJak-rODxjoIa5NzM2zdSoNp_ueK4XbDM6X18Pnc22navUGON58NGicV4EIpDMV8zGJkVZmTOi1IWFBDMUVeVOnAZccRWpYNtwWVXw/file?dl=1# [following]
+--2023-01-30 17:41:54--  https://ucd00fa48d1cf3ff4566baf61f10.dl.dropboxusercontent.com/cd/0/get/B1hPugB_Jj7BXai_eqqedjdYCYOjmg0AzBvlpJgPitwcJEVxM8BixFJSys5fo8kgbaWwG7cfVJak-rODxjoIa5NzM2zdSoNp_ueK4XbDM6X18Pnc22navUGON58NGicV4EIpDMV8zGJkVZmTOi1IWFBDMUVeVOnAZccRWpYNtwWVXw/file?dl=1
+Resolving ucd00fa48d1cf3ff4566baf61f10.dl.dropboxusercontent.com (ucd00fa48d1cf3ff4566baf61f10.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucd00fa48d1cf3ff4566baf61f10.dl.dropboxusercontent.com (ucd00fa48d1cf3ff4566baf61f10.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66008112 (63M) [application/binary]
+Saving to: ‘../traces//streaming_phase4_core0.trace.xz’
+
+../traces//streaming_ 100%[======================>]  62.95M  11.2MB/s    in 5.6s    
+
+2023-01-30 17:42:01 (11.2 MB/s) - ‘../traces//streaming_phase4_core0.trace.xz’ saved [66008112/66008112]
+
+Downloading streaming_phase4_core1.trace.xz...
+--2023-01-30 17:42:01--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAANPG6uZZ3PTKaiulq2Oyeka/streaming_phase4_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAANPG6uZZ3PTKaiulq2Oyeka/streaming_phase4_core1.trace.xz [following]
+--2023-01-30 17:42:01--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAANPG6uZZ3PTKaiulq2Oyeka/streaming_phase4_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc5f8c8120b4872e52be8e3b7d91.dl.dropboxusercontent.com/cd/0/get/B1j1ujCPDR6lCXb5TztnYBuZJwz8f2BD9WX4W1Sc2G-VDH7DdoKKiiH9LvmgU-6Df9v06nmz_ZZpK-vWJ0iXKJfrIBxWNCvCkXVZxuX5nzlIOuUKLHeui1nw1-BbKoixcr9YmAtlvtQAXuXmtLmOoi8-MjUiMu7QkkvbSKBBhJh0HA/file?dl=1# [following]
+--2023-01-30 17:42:01--  https://uc5f8c8120b4872e52be8e3b7d91.dl.dropboxusercontent.com/cd/0/get/B1j1ujCPDR6lCXb5TztnYBuZJwz8f2BD9WX4W1Sc2G-VDH7DdoKKiiH9LvmgU-6Df9v06nmz_ZZpK-vWJ0iXKJfrIBxWNCvCkXVZxuX5nzlIOuUKLHeui1nw1-BbKoixcr9YmAtlvtQAXuXmtLmOoi8-MjUiMu7QkkvbSKBBhJh0HA/file?dl=1
+Resolving uc5f8c8120b4872e52be8e3b7d91.dl.dropboxusercontent.com (uc5f8c8120b4872e52be8e3b7d91.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc5f8c8120b4872e52be8e3b7d91.dl.dropboxusercontent.com (uc5f8c8120b4872e52be8e3b7d91.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63213856 (60M) [application/binary]
+Saving to: ‘../traces//streaming_phase4_core1.trace.xz’
+
+../traces//streaming_ 100%[======================>]  60.29M  11.2MB/s    in 5.4s    
+
+2023-01-30 17:42:07 (11.2 MB/s) - ‘../traces//streaming_phase4_core1.trace.xz’ saved [63213856/63213856]
+
+Downloading streaming_phase4_core3.trace.xz...
+--2023-01-30 17:42:07--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAAdIGvEWR1pQCpu8zdglTo7a/streaming_phase4_core3.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAAdIGvEWR1pQCpu8zdglTo7a/streaming_phase4_core3.trace.xz [following]
+--2023-01-30 17:42:08--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAAdIGvEWR1pQCpu8zdglTo7a/streaming_phase4_core3.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucd4a1e9cf673a8d7c9983234dda.dl.dropboxusercontent.com/cd/0/get/B1hj6M-Tos7Rp-Lw6-zVujlDsP9fY3ZpUj0JRDBLdVvbRVWi5aoRB68FnhccHNgGAcqNQLBERKV6RQ8RZBWTF6bzUNpulqeyba7BbByn0kZKuLIgpKvm7VC9KC24HNf24Syn97SWnBsQ504c1S8az8XSZxOesTyCKpq8HIAvMThazA/file?dl=1# [following]
+--2023-01-30 17:42:08--  https://ucd4a1e9cf673a8d7c9983234dda.dl.dropboxusercontent.com/cd/0/get/B1hj6M-Tos7Rp-Lw6-zVujlDsP9fY3ZpUj0JRDBLdVvbRVWi5aoRB68FnhccHNgGAcqNQLBERKV6RQ8RZBWTF6bzUNpulqeyba7BbByn0kZKuLIgpKvm7VC9KC24HNf24Syn97SWnBsQ504c1S8az8XSZxOesTyCKpq8HIAvMThazA/file?dl=1
+Resolving ucd4a1e9cf673a8d7c9983234dda.dl.dropboxusercontent.com (ucd4a1e9cf673a8d7c9983234dda.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to ucd4a1e9cf673a8d7c9983234dda.dl.dropboxusercontent.com (ucd4a1e9cf673a8d7c9983234dda.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59250776 (57M) [application/binary]
+Saving to: ‘../traces//streaming_phase4_core3.trace.xz’
+
+../traces//streaming_ 100%[======================>]  56.51M  11.2MB/s    in 5.1s    
+
+2023-01-30 17:42:14 (11.1 MB/s) - ‘../traces//streaming_phase4_core3.trace.xz’ saved [59250776/59250776]
+
+Downloading streaming_phase5_core0.trace.xz...
+--2023-01-30 17:42:14--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AABp1WejtMjDq1IDcp4roaH2a/streaming_phase5_core0.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AABp1WejtMjDq1IDcp4roaH2a/streaming_phase5_core0.trace.xz [following]
+--2023-01-30 17:42:14--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AABp1WejtMjDq1IDcp4roaH2a/streaming_phase5_core0.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc536aeeb523b49ce82cdde5acce.dl.dropboxusercontent.com/cd/0/get/B1i2rGJOogxZ3mfbhdHmbXjCNDCC-Z4Be-3h_22PHO37TSPgaERubvx4G4FLFPqZz2RWWe3hGg6Sq8cr_Z6QqOdbI4qkyLXqmsPijDyQ1EJK5D8Xp4XkXK2o7TLVRKirD_D4clxDr1gPoDwCTkFUsWUg2j7anM8mr-XYEQXleetRMA/file?dl=1# [following]
+--2023-01-30 17:42:15--  https://uc536aeeb523b49ce82cdde5acce.dl.dropboxusercontent.com/cd/0/get/B1i2rGJOogxZ3mfbhdHmbXjCNDCC-Z4Be-3h_22PHO37TSPgaERubvx4G4FLFPqZz2RWWe3hGg6Sq8cr_Z6QqOdbI4qkyLXqmsPijDyQ1EJK5D8Xp4XkXK2o7TLVRKirD_D4clxDr1gPoDwCTkFUsWUg2j7anM8mr-XYEQXleetRMA/file?dl=1
+Resolving uc536aeeb523b49ce82cdde5acce.dl.dropboxusercontent.com (uc536aeeb523b49ce82cdde5acce.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc536aeeb523b49ce82cdde5acce.dl.dropboxusercontent.com (uc536aeeb523b49ce82cdde5acce.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71157936 (68M) [application/binary]
+Saving to: ‘../traces//streaming_phase5_core0.trace.xz’
+
+../traces//streaming_ 100%[======================>]  67.86M  11.1MB/s    in 6.1s    
+
+2023-01-30 17:42:21 (11.1 MB/s) - ‘../traces//streaming_phase5_core0.trace.xz’ saved [71157936/71157936]
+
+Downloading streaming_phase5_core1.trace.xz...
+--2023-01-30 17:42:21--  https://www.dropbox.com/sh/hh09tt8myuz0jbp/AAD5H-XFtGnLZBK0eS4wpq6qa/streaming_phase5_core1.trace.xz?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.1.18, 2620:100:6016:18::a27d:112
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.1.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sh/dl/hh09tt8myuz0jbp/AAD5H-XFtGnLZBK0eS4wpq6qa/streaming_phase5_core1.trace.xz [following]
+--2023-01-30 17:42:22--  https://www.dropbox.com/sh/dl/hh09tt8myuz0jbp/AAD5H-XFtGnLZBK0eS4wpq6qa/streaming_phase5_core1.trace.xz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc897c15f82ef04bf723397f0cbf.dl.dropboxusercontent.com/cd/0/get/B1gzmBaxiKPpZJl6d1rPd2U3U6ljkjYK9AwgoDXD2gqG9mmCSi57OUR0lnXKkycqWnHv-Y5Ek3d0F2W2-UQz0Gv5mgZQNY5OJ8Lv6WWdx0srNY_sypGF_KyH9my7znvye2si1RJvffiZuFMcCtnCDsLc3SLwK8iDP_-dzzXNH8psnQ/file?dl=1# [following]
+--2023-01-30 17:42:22--  https://uc897c15f82ef04bf723397f0cbf.dl.dropboxusercontent.com/cd/0/get/B1gzmBaxiKPpZJl6d1rPd2U3U6ljkjYK9AwgoDXD2gqG9mmCSi57OUR0lnXKkycqWnHv-Y5Ek3d0F2W2-UQz0Gv5mgZQNY5OJ8Lv6WWdx0srNY_sypGF_KyH9my7znvye2si1RJvffiZuFMcCtnCDsLc3SLwK8iDP_-dzzXNH8psnQ/file?dl=1
+Resolving uc897c15f82ef04bf723397f0cbf.dl.dropboxusercontent.com (uc897c15f82ef04bf723397f0cbf.dl.dropboxusercontent.com)... 162.125.1.15, 2620:100:6016:15::a27d:10f
+Connecting to uc897c15f82ef04bf723397f0cbf.dl.dropboxusercontent.com (uc897c15f82ef04bf723397f0cbf.dl.dropboxusercontent.com)|162.125.1.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71232340 (68M) [application/binary]
+Saving to: ‘../traces//streaming_phase5_core1.trace.xz’
+
+../traces//streaming_ 100%[======================>]  67.93M  11.2MB/s    in 6.2s    
+
+2023-01-30 17:42:31 (11.0 MB/s) - ‘../traces//streaming_phase5_core1.trace.xz’ saved [71232340/71232340]
+
+Downloading ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_15500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_15750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_26750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BC.com-lj.ungraph.gcc_6.3.0_O3.drop_500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_1750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_24750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_33750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_4000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_5500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BellmanFord.com-lj.ungraph.gcc_6.3.0_O3.drop_7500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_18000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_23000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_2500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS-Bitvector.com-lj.ungraph.gcc_6.3.0_O3.drop_500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_15750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_17000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_20250M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_21500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFS.com-lj.ungraph.gcc_6.3.0_O3.drop_500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_15500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_17000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_18750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_BFSCC.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_154750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_184750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_CF.com-lj.ungraph.gcc_6.3.0_O3.drop_2500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_17000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_21000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_22000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components-Shortcut.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_15750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_18000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_22750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_23750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Components.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_15750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_17000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_21250M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_MIS.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_18500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_21750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_51000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_60750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRank.com-lj.ungraph.gcc_6.3.0_O3.drop_79500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_1250M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_17000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_24000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_24500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_35250M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_52000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_PageRankDelta.com-lj.ungraph.gcc_6.3.0_O3.drop_6000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_18000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_24500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_25000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_32000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_36000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_5000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Radii.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_18000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_24000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_25000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_3500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_6000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading ligra_Triangle.com-lj.ungraph.gcc_6.3.0_O3.drop_750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.canneal.simlarge.prebuilt.drop_1250M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.canneal.simlarge.prebuilt.drop_3000M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.canneal.simlarge.prebuilt.drop_4500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.canneal.simlarge.prebuilt.drop_4750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.canneal.simlarge.prebuilt.drop_500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.facesim.simlarge.prebuilt.drop_1500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.facesim.simlarge.prebuilt.drop_21500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.fluidanimate.simlarge.prebuilt.drop_9500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.raytrace.simlarge.prebuilt.drop_23500M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.raytrace.simlarge.prebuilt.drop_23750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.streamcluster.simlarge.prebuilt.drop_0M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.streamcluster.simlarge.prebuilt.drop_14750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.streamcluster.simlarge.prebuilt.drop_250M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+Downloading parsec_2.1.streamcluster.simlarge.prebuilt.drop_4750M.length_250M.champsimtrace.xz...
+Can't exec "/home/lisa/Pythia/scripts/megatools-1.11.0-git-20210505-linux-x86_64/megatools": No such file or directory at download_traces.pl line 36.
+
+================================
+Trace downloading completed
+Downloaded 138/233 traces
+================================

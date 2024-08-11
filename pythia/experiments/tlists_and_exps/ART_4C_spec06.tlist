@@ -1,0 +1,63 @@
+NAME=403.gcc-16B_4T
+TRACE=$(PYTHIA_HOME)/traces/403.gcc-16B.champsimtrace.xz $(PYTHIA_HOME)/traces/403.gcc-16B.champsimtrace.xz $(PYTHIA_HOME)/traces/403.gcc-16B.champsimtrace.xz $(PYTHIA_HOME)/traces/403.gcc-16B.champsimtrace.xz
+KNOBS=
+
+NAME=410.bwaves-1963B_4T
+TRACE=$(PYTHIA_HOME)/traces/410.bwaves-1963B.champsimtrace.xz $(PYTHIA_HOME)/traces/410.bwaves-1963B.champsimtrace.xz $(PYTHIA_HOME)/traces/410.bwaves-1963B.champsimtrace.xz $(PYTHIA_HOME)/traces/410.bwaves-1963B.champsimtrace.xz
+KNOBS=
+
+NAME=429.mcf-192B_4T
+TRACE=$(PYTHIA_HOME)/traces/429.mcf-192B.champsimtrace.xz $(PYTHIA_HOME)/traces/429.mcf-192B.champsimtrace.xz $(PYTHIA_HOME)/traces/429.mcf-192B.champsimtrace.xz $(PYTHIA_HOME)/traces/429.mcf-192B.champsimtrace.xz
+KNOBS=
+
+NAME=433.milc-127B_4T
+TRACE=$(PYTHIA_HOME)/traces/433.milc-127B.champsimtrace.xz $(PYTHIA_HOME)/traces/433.milc-127B.champsimtrace.xz $(PYTHIA_HOME)/traces/433.milc-127B.champsimtrace.xz $(PYTHIA_HOME)/traces/433.milc-127B.champsimtrace.xz
+KNOBS=
+
+NAME=436.cactusADM-1804B_4T
+TRACE=$(PYTHIA_HOME)/traces/436.cactusADM-1804B.champsimtrace.xz $(PYTHIA_HOME)/traces/436.cactusADM-1804B.champsimtrace.xz $(PYTHIA_HOME)/traces/436.cactusADM-1804B.champsimtrace.xz $(PYTHIA_HOME)/traces/436.cactusADM-1804B.champsimtrace.xz
+KNOBS=
+
+NAME=437.leslie3d-149B_4T
+TRACE=$(PYTHIA_HOME)/traces/437.leslie3d-149B.champsimtrace.xz $(PYTHIA_HOME)/traces/437.leslie3d-149B.champsimtrace.xz $(PYTHIA_HOME)/traces/437.leslie3d-149B.champsimtrace.xz $(PYTHIA_HOME)/traces/437.leslie3d-149B.champsimtrace.xz
+KNOBS=
+
+NAME=445.gobmk-36B_4T
+TRACE=$(PYTHIA_HOME)/traces/445.gobmk-36B.champsimtrace.xz $(PYTHIA_HOME)/traces/445.gobmk-36B.champsimtrace.xz $(PYTHIA_HOME)/traces/445.gobmk-36B.champsimtrace.xz $(PYTHIA_HOME)/traces/445.gobmk-36B.champsimtrace.xz
+KNOBS=
+
+NAME=450.soplex-247B_4T
+TRACE=$(PYTHIA_HOME)/traces/450.soplex-247B.champsimtrace.xz $(PYTHIA_HOME)/traces/450.soplex-247B.champsimtrace.xz $(PYTHIA_HOME)/traces/450.soplex-247B.champsimtrace.xz $(PYTHIA_HOME)/traces/450.soplex-247B.champsimtrace.xz
+KNOBS=
+
+NAME=459.GemsFDTD-1418B_4T
+TRACE=$(PYTHIA_HOME)/traces/459.GemsFDTD-1418B.champsimtrace.xz $(PYTHIA_HOME)/traces/459.GemsFDTD-1418B.champsimtrace.xz $(PYTHIA_HOME)/traces/459.GemsFDTD-1418B.champsimtrace.xz $(PYTHIA_HOME)/traces/459.GemsFDTD-1418B.champsimtrace.xz
+KNOBS=
+
+NAME=462.libquantum-1343B_4T
+TRACE=$(PYTHIA_HOME)/traces/462.libquantum-1343B.champsimtrace.xz $(PYTHIA_HOME)/traces/462.libquantum-1343B.champsimtrace.xz $(PYTHIA_HOME)/traces/462.libquantum-1343B.champsimtrace.xz $(PYTHIA_HOME)/traces/462.libquantum-1343B.champsimtrace.xz
+KNOBS=
+
+NAME=470.lbm-1274B_4T
+TRACE=$(PYTHIA_HOME)/traces/470.lbm-1274B.champsimtrace.xz $(PYTHIA_HOME)/traces/470.lbm-1274B.champsimtrace.xz $(PYTHIA_HOME)/traces/470.lbm-1274B.champsimtrace.xz $(PYTHIA_HOME)/traces/470.lbm-1274B.champsimtrace.xz
+KNOBS=
+
+NAME=471.omnetpp-188B_4T
+TRACE=$(PYTHIA_HOME)/traces/471.omnetpp-188B.champsimtrace.xz $(PYTHIA_HOME)/traces/471.omnetpp-188B.champsimtrace.xz $(PYTHIA_HOME)/traces/471.omnetpp-188B.champsimtrace.xz $(PYTHIA_HOME)/traces/471.omnetpp-188B.champsimtrace.xz
+KNOBS=
+
+NAME=473.astar-359B_4T
+TRACE=$(PYTHIA_HOME)/traces/473.astar-359B.champsimtrace.xz $(PYTHIA_HOME)/traces/473.astar-359B.champsimtrace.xz $(PYTHIA_HOME)/traces/473.astar-359B.champsimtrace.xz $(PYTHIA_HOME)/traces/473.astar-359B.champsimtrace.xz
+KNOBS=
+
+NAME=481.wrf-196B_4T
+TRACE=$(PYTHIA_HOME)/traces/481.wrf-196B.champsimtrace.xz $(PYTHIA_HOME)/traces/481.wrf-196B.champsimtrace.xz $(PYTHIA_HOME)/traces/481.wrf-196B.champsimtrace.xz $(PYTHIA_HOME)/traces/481.wrf-196B.champsimtrace.xz
+KNOBS=
+
+NAME=482.sphinx3-1297B_4T
+TRACE=$(PYTHIA_HOME)/traces/482.sphinx3-1297B.champsimtrace.xz $(PYTHIA_HOME)/traces/482.sphinx3-1297B.champsimtrace.xz $(PYTHIA_HOME)/traces/482.sphinx3-1297B.champsimtrace.xz $(PYTHIA_HOME)/traces/482.sphinx3-1297B.champsimtrace.xz
+KNOBS=
+
+NAME=483.xalancbmk-127B_4T
+TRACE=$(PYTHIA_HOME)/traces/483.xalancbmk-127B.champsimtrace.xz $(PYTHIA_HOME)/traces/483.xalancbmk-127B.champsimtrace.xz $(PYTHIA_HOME)/traces/483.xalancbmk-127B.champsimtrace.xz $(PYTHIA_HOME)/traces/483.xalancbmk-127B.champsimtrace.xz
+KNOBS=

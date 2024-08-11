@@ -1,0 +1,2 @@
+perl ../../../scripts/rollup.pl --tlist ../../ART_4C_ALL.tlist --exp ../../ART_8C.exp --mfile ../../ART_4C.mfile 
+cp */*out . && perl ../../../../scripts/rollup.pl --tlist ../../../ART_8C_MIX.tlist --exp ../../../ART_8C.exp --mfile ../../../ART_8C_MIX.mfile > rollup.csv

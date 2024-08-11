@@ -1,0 +1,11 @@
+CPU 0 cumulative IPC : sum
+CPU 1 cumulative IPC : sum
+CPU 2 cumulative IPC : sum
+CPU 3 cumulative IPC : sum
+CPU 4 cumulative IPC : sum
+CPU 5 cumulative IPC : sum
+CPU 6 cumulative IPC : sum
+CPU 7 cumulative IPC : sum
+MISS : sum
+LLC_MPKI : sum
+LLC_AVG_MISS_LAT_CYCLES : sum
