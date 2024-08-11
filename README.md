@@ -1,14 +1,13 @@
-# START: Scalable Tracking for Any Rowhammer Threshold
+# ImPress: Securing DRAM Against Data-Disturbance Errors via Implicit Row-Press Mitigation
 
-This repository is part of the evaluation artifact for the [START](https://arxiv.org/abs/2308.14889) paper, which will appear at [HPCA 2024](https://www.hpca-conf.org/2024/). 
+This repository is part of the evaluation artifact for the [ImPress](https://arxiv.org/pdf/2407.16006) paper, which will appear at [MICRO 2024](https://microarch.org/micro57/). 
+
+**Acknowledgement:** This artifact and simulation infrastructure have been adapted from [START (HPCA'24)](https://github.com/Anish-Saxena/rowhammer_champsim).
 
 ## Introduction
 
-Experiments in the START paper are conducted using [ChampSim](https://github.com/ChampSim/ChampSim), a cycle-level multi-core simulator, interfaced with [DRAMSim3](https://github.com/umd-memsys/dramsim3), a detailed memory system simulator. The trace download and jobfile management is borrowed from the infrastructure used in [Pythia](https://github.com/CMU-SAFARI/Pythia). Accordingly, the code and experimentation framework of START has been partitioned into 3 repositories for modularity. 
+Experiments in the ImPress paper are conducted using [ChampSim](https://github.com/ChampSim/ChampSim), a cycle-level multi-core simulator, interfaced with [DRAMSim3](https://github.com/umd-memsys/dramsim3), a detailed memory system simulator. The jobfile management is adapted from the infrastructure used in [pythia](https://github.com/CMU-SAFARI/pythia). 
 
-This repository hosts the experimental workflow (experiment directories, jobfiles, stat collection, etc.) adopted from Pythia.
-
-**NOTE:** The documentation is common across all 3 repositories, so feel free to start here.
 
 ## System Requirements
 
@@ -95,7 +94,7 @@ Running this trace for 100K warmup and 100K simulation instructions should take 
 
 ## Experimental Workflow
 
-START adopts [Pythia's](https://github.com/CMU-SAFARI/Pythia) experimental workflow by launching experiments preferably on an HPC compute cluster followed by rolling up statistics.
+START adopts [pythia's](https://github.com/CMU-SAFARI/pythia) experimental workflow by launching experiments preferably on an HPC compute cluster followed by rolling up statistics.
 
 Each configuration runs either 28 workloads (used in the main apper) or all 51 workloads (used in appendix). Overall, there are 48 configurations required to recreate all figures in the paper, and 16 configurations to recreate the representative figures.
 
