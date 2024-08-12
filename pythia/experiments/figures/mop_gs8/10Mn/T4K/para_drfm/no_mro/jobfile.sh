@@ -6,7 +6,7 @@
 
 #SBATCH --cpus-per-task 1
 
-#SBATCH --ntasks 63
+#SBATCH --ntasks 32
 
 #SBATCH --mem-per-cpu=4G
 

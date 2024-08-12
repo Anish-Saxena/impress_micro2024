@@ -4,6 +4,8 @@ This repository is part of the evaluation artifact for the [ImPress](https://arx
 
 **Acknowledgement:** This artifact and simulation infrastructure have been adapted from [START (HPCA'24)](https://github.com/Anish-Saxena/rowhammer_champsim).
 
+**NOTE:** GitHub repository is currently WIP. Please check back after 8/14.
+
 ## Introduction
 
 Experiments in the ImPress paper are conducted using [ChampSim](https://github.com/ChampSim/ChampSim), a cycle-level multi-core simulator, interfaced with [DRAMSim3](https://github.com/umd-memsys/dramsim3), a detailed memory system simulator. The jobfile management is adapted from the infrastructure used in [pythia](https://github.com/CMU-SAFARI/pythia). 
@@ -18,27 +20,25 @@ Experiments in the ImPress paper are conducted using [ChampSim](https://github.c
    - **HW Dependencies** 
      - A scale-out system like many-core server or HPC cluster.
      - Our experiments were performed on the [PACE](https://pace.gatech.edu) cluster at Georgia Tech.
-     - Most configurations run simulations for 28 workloads for about 6 hours on average (with one workload per core). Some configurations run 51 workloads per configurations.
-     - Overall, there are 48 configurations, requiring about 9,000 core-hours to replicate all results (about 1-2 days on four 64-core servers).
-
-**NOTE:** If compute resources are limited, we consider the key results of the paper to be those displayed in Figure 6, 7, 8, 13, 14, and 16, which corresponds to 16 configurations, requiring about 3,600 core-hours (about 1-2 days on a 64-core server).
+     - Most configurations run simulations for 26 workloads for about 6 hours on average (with one workload per core). 
+     - Overall, there are 31 configurations, requiring about 4,800 core-hours to replicate all results (aboutone day on four 64-core servers).
 
 ## Compilation Steps
 
 The expected directory structure is:
 
 ```
-start_hpca24_ae
+base_impress_ae_directory
 |-dramsim3
 |-champsim
-|-experiments
+|-pythia
 ```
 
-* `mkdir start_hpca24_ae`
+* `git clone git@github.com:Anish-Saxena/impress_micro2024.git`
+* `cd impress_micro2024`
 
 ### Build DRAMSim3
 
-* `git clone https://github.com/Anish-Saxena/rowhammer_dramsim3 dramsim3`
 * `cd dramsim3`
 * `mkdir build && cd build && cmake ..`
 * `make -j8`
@@ -46,13 +46,12 @@ start_hpca24_ae
 
 ### Setup ChampSim Build Environment
 
-* `git clone https://github.com/Anish-Saxena/rowhammer_champsim champsim`
 * `cd champsim`
 *  `./set_paths.sh`
 
 ### Compile One Configuration for Testing
 
-* `./config.py configs/8C_16W.json`
+* `./config.py configs/MOP_GS8/baseline.json`
 * `make -j8`
 * `cd ..`
 
@@ -62,19 +61,7 @@ Ensure that the compilation completes without error.
 
 ### Download Traces
 
-* `git clone https://github.com/Anish-Saxena/rowhammer_pythia experiments`
-* `cd experiments`
-* `source setvars.sh`
-* `mkdir traces`
-* `cd scripts/`
-* `perl download_traces.pl --csv START_traces.csv --dir ../traces/`
-* `cd ../traces/`
-* `md5sum -c ../scripts/START_traces.md5`
-* `cd ../../`
-
-The 44 traces might take an hour or more to download, depending both on the host network bandwidth and bandwidth allocation provided by Megatools (for LIGRA and PARSEC traces). Ensure that the checksum passes for all traces.
-
-**Common Error**: If Megatools does not work, download the latest megatools utility for the relevant platform from [Megatools Builds](https://megatools.megous.com/builds/builds/), untar it (`tar -xvf <filename`), and update the `megatool_exe` parameter in `download_traces.pl`.
+Please download traces from [Dropbox](https://www.dropbox.com/scl/fi/il9weggd1x0wae0s6b30a/traces.tar.gz?rlkey=dx27ime7p14gkjfh16xohk0ix&st=r5fuucmx&dl=0). Then, place them in `pythia/traces/` directory and extract the tarball contents (`tar -cvzf traces.tar.gz`).
 
 ### Update LD_LIBARY_PATH
 
@@ -94,18 +81,18 @@ Running this trace for 100K warmup and 100K simulation instructions should take 
 
 ## Experimental Workflow
 
-START adopts [pythia's](https://github.com/CMU-SAFARI/pythia) experimental workflow by launching experiments preferably on an HPC compute cluster followed by rolling up statistics.
+ImPress adopts [pythia's](https://github.com/CMU-SAFARI/pythia) experimental workflow by launching experiments preferably on an HPC compute cluster followed by rolling up statistics.
 
-Each configuration runs either 28 workloads (used in the main apper) or all 51 workloads (used in appendix). Overall, there are 48 configurations required to recreate all figures in the paper, and 16 configurations to recreate the representative figures.
+Each configuration runs 26 workloads. Overall, there are 31 configurations required to recreate key figures in the paper.
 
 ### Build ChampSim Configurations
 
 1. `cd champsim`
-2. If recreating all figures, `./build_configs.sh configs/all_figures.configs`. Otherwise, `./build_configs.sh configs/representative_figures.configs`.
+2. `./build_configs.sh configs/configs.txt`
 
 ### Launch Experiments
 
-Recreating all figures requires 1528 experiment runs (each requiring one core and 4GB memory). Recreating representative figures requires 609 experiments runs. Each experiment requires 6 core-hours on average, or about 9K core-hours to recreate all experiments and 3.6K core-hours to recreate representative experiments. 
+Recreating all figures requires 806 experiment runs (each requiring one core and 4GB memory). Each experiment requires 6 core-hours on average, or about 9K core-hours to recreate all experiments and 4.8K core-hours to recreate representative experiments. 
 
 1. Select whether you will recreate all figures or only representative figures and check out `experiments/experiments/all_figures/` or `experiments/experiments/representative_figures/` directory, respectively. 
 2. The `configure.csv` file provides details about each configuration (best viewed in Google Sheets/ Excel).
