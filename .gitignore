@@ -63,7 +63,12 @@ pythia/cvp1_traces/
 pythia/experiments/*Sim/
 pythia/experiments/old_experiments/
 pythia/experiments/all_figures/
-pythai/experiments/representative_figures/
+pythia/experiments/representative_figures/
+pythia/experiments/figures/mop_gs8/10Mn/
+pythia/experiments/figures/mop_gs8/T1K/
+pythia/experiments/figures/mop_gs8/T2K/
+pythia/experiments/figures/mop_gs8/raa_rfm/TH*
+pythia/experiments/figures/mop_gs8/raa_rfm/full_ref/
 pythia/DDR5_baseline*
 pythia/core.*
 pythia/*4T_base/

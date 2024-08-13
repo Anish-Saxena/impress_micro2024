@@ -21,7 +21,7 @@ Experiments in the ImPress paper are conducted using [ChampSim](https://github.c
      - A scale-out system like many-core server or HPC cluster.
      - Our experiments were performed on the [PACE](https://pace.gatech.edu) cluster at Georgia Tech.
      - Most configurations run simulations for 20 workloads for about 6 hours on average (with one workload per core). 
-     - Overall, there are 37 configurations, requiring about 4,400 core-hours to replicate all results (about three days on one 64-core server).
+     - Overall, there are 35 configurations, requiring about 4,200 core-hours to replicate all results (about three days on one 64-core server).
 
 ## Compilation Steps
 
@@ -61,14 +61,21 @@ Ensure that the compilation completes without error.
 
 ### Download Traces
 
-Please download traces from [Dropbox](https://www.dropbox.com/scl/fi/il9weggd1x0wae0s6b30a/traces.tar.gz?rlkey=dx27ime7p14gkjfh16xohk0ix&st=r5fuucmx&dl=0). Then, place them in `pythia/traces/` directory and extract the tarball contents (`tar -cvzf traces.tar.gz`).
+Please download traces from [Dropbox](https://www.dropbox.com/scl/fi/il9weggd1x0wae0s6b30a/traces.tar.gz?rlkey=dx27ime7p14gkjfh16xohk0ix&st=r5fuucmx&dl=0). After extracting the traces (`tar -cvzf traces.tar.gz`), place them in `pythia/traces/` directory. The structure should be as follows:
+
+```
+pythia/traces/
+|-602.gcc_s-1850B.champsimtrace.xz
+|-603.bwaves_s-2931B.champsimtrace.xz
+|- and so-on...
+```
 
 ### Update LD_LIBARY_PATH
 
-DRAMSim3 is loaded as a dynamically linked library and requires updating `LD_LIBRARY_PATH` variable. We recommend appending the updated variable to `bashrc` as well as all job-files used to launch experiments.
+DRAMSim3 is loaded as a dynamically linked library and requires updating `LD_LIBRARY_PATH` variable. We recommend exporting the updated variable to the job-files used to launch experiments.
 
 - Update `LD_LIBRARY_PATH` in current terminal session: `export LD_LIBRARY_PATH=<path-to-dramsim3-directory>:$LD_LIBRARY_PATH`
-- Append updated variable to bashrc: `echo "export LD_LIBRARY_PATH=<path-to-dramsim3-directory>:$LD_LIBRARY_PATH" >> ~/.bashrc`
+- Optional (not recommended): Append updated variable to bashrc: `echo "export LD_LIBRARY_PATH=<path-to-dramsim3-directory>:$LD_LIBRARY_PATH" >> ~/.bashrc`
 
 ### Test Setup with Dummy Run
 
@@ -83,57 +90,51 @@ Running this trace for 100K warmup and 100K simulation instructions should take 
 
 ImPress adopts [pythia's](https://github.com/CMU-SAFARI/pythia) experimental workflow by launching experiments preferably on an HPC compute cluster followed by rolling up statistics.
 
-Each configuration runs 26 workloads. Overall, there are 31 configurations required to recreate key figures in the paper.
+Each configuration runs 20 workloads. Overall, there are 35 configurations required to recreate key figures in the paper.
 
 ### Build ChampSim Configurations
 
 1. `cd champsim`
 2. `./build_configs.sh configs/configs.txt`
 
+This script builds all simulator binaries for the experiments and might take between 30 minutes to an hour to complete.
+
 ### Launch Experiments
 
-Recreating all figures requires 806 experiment runs (each requiring one core and 4GB memory). Each experiment requires 6 core-hours on average, or about 9K core-hours to recreate all experiments and 4.8K core-hours to recreate representative experiments. 
+Recreating all figures requires 700 experiment runs (each requiring one core and 4GB memory). Each experiment requires 6 core-hours on average, or about 4.2K core-hours to reproduce the experiments. 
 
-1. Select whether you will recreate all figures or only representative figures and check out `experiments/experiments/all_figures/` or `experiments/experiments/representative_figures/` directory, respectively. 
-2. The `configure.csv` file provides details about each configuration (best viewed in Google Sheets/ Excel).
+The directory structure (required to parse results for plotting scripts) has been set up at:
 
-The directories for each required configuration have already been set up. Next, make any changes necessary to run the configuration on your machine. **Refer to options below before proceeding to next steps.**
+`pythia/experiments/figures/mop_gs8/`
+
+Within this directory, you will find several sub-directories storing a jobfile (eg., `baseline/jobfile.sh`) for each configuration. The list of all configurations to be launched, relative to the above-mentioned experiment directory, is available at `pythia/experiments/figures/mop_gs8/experiments.txt`. 
+
+Next, make any changes necessary to run the configurations on your machine. **Refer to options below before proceeding to next steps.**
 
 #### Option-1: Using Slurm
 
-The sample jobfile within each directory assumes usage of `slurm` scheduler (typically when using an HPC cluster). For each configuration, the only difference in jobfiles is the ChampSim binary used, so all jobfiles are created using the following 3 jobfiles:
+The sample jobfile within each directory assumes usage of `slurm` scheduler (typically when using an HPC cluster). We recommend making changes to these jobfiles (such as specifying the charge account for `slurm`, etc.), as required. Please be sure to change **ALL** jobfiles listed in `experiments.txt`. 
 
-- `experiments/experiments/1C_all_workloads.sh`: Baseline single-core experiments used to compute weighted speedup. 44 workloads.
-- `experiments/experiments/single_workloads.sh`: Multi-core experiments with same workload on each core. 28 workloads.
-- `experiments/experiments/all_workloads.sh`: All multi-core experiments (single, mixed, cloudsuite). 51 workloads.
+**Tips:** Common modifications, such as substituting charge account name, can be accomplished using two commands from within the `pythia/experiments/figures/mop_gs8/` directory:
 
-We recommend making any changes to these three jobfiles (such as specifying the charge account for `slurm`, etc.), as required. Alternatively, try running a jobfile inside a directory within `experiments/experiments/all_figures/` to ensure it works (for example, `cd 8C_16WLLC && sbatch jobfile.sh`).
+1. `/bin/zsh`
+2. `sed -i 's/gts-mqureshi4-rg/<your-account-name>/g' **.jobfile.sh`
+
+This would change the charge account name in all jobfiles stored in this directory or any of its sub-directories. Other modifications can be similarly accomplished using `sed`.
+
+**Note:** Please do not change the name of workload directories (or their directory structure) created by the jobfiles, as they are used by the stat collection scripts.  
+
+Before proceeding, try running a jobfile inside a directory to ensure it works. For example, try launching baselin experiments using `cd baseline && sbatch jobfile.sh`. If all experiments launch without failures, you may cancel this trial run (using `scancel` command) and proceed to launching all experiments. 
 
 #### Option-2: Running Locally
 
-Similar to the `slurm` option, we provide three jobfiles from which all configuration jobfiles can be derived:
+Similar to the `slurm` option, we provide jobfiles that can launch experiments locally in parallel in the `pythia/experiments/figures/mop_gs8_local/` directory (eg., check out `baseline/jobfile.sh`). The jobfiles in this directory do not require slurm, but the management of running all required configurations is upon the user. We encourage users to modify `launch_exps.sh` in this directory to launch experiments and manage resource utilization as required. 
 
-- `experiments/experiments/1C_all_workloads.local.sh`: Baseline single-core experiments used to compute weighted speedup. 44 workloads.
-- `experiments/experiments/single_workloads.local.sh`: Multi-core experiments with same workload on each core. 28 workloads.
-- `experiments/experiments/all_workloads.local.sh`: All multi-core experiments (single, mixed, cloudsuite). 51 workloads.
+**After referring to options above, proceed with launching experiments below.**
 
-We recommend making any changes to these three jobfiles as required. Alternatively, try running a jobfile inside a directory within `experiments/experiments/all_figures/` to ensure it works (for example, `cd 8C_16WLLC && ./jobfile.sh`).
-
-#### Option-3: Create Your Own Jobfiles
-
-Please customize `create_jobfile.pl` to create jobfiles to the format needed for launching experiments on your machine. Create the new jobfile comprising all experiments using the following command:
-
-`perl ../scripts/create_jobfile.pl --exe $PYTHIA_HOME/../champsim/bin/8C_16WLLC --tlist START_8C_ALL.tlist --exp START.exp --local 1 > single_workloads.local.sh`
-
-Note that you need to create jobfiles for 8-core all-workloads (`START_8C_ALL.tlist`), 8-core single-workloads (`START_8C_SINGLE.tlist`), and 1-core all-workloads (`START_1C_ALL.tlist`). Be sure to following the jobfile naming convention discussed in Option-2. 
-
-**After referring to options above, proceed with launching experiments below.** One required change is updating the paths to champsim binary and traces in all three main jobfiles, and can be done easily with find and replace.
-
-3. After making changes, run `./setup_exps.sh` to recreate jobfiles for all configurations.
-
-4. Finally, launch experiments. 
-    * **Option-1**: We provide a helper script `launch_exps.sh` that launches all experiments using the `sbatch` command. 
-    * **Option-2 or 3**: If running locally, please launch each configuration manually and ensure number of running experiments are less than number of cores at any given time (otherwise context switches can degrade performance).
+3. Launch experiments. 
+    * **Option-1**: We provide a helper script `launch_exps.sh` within `mop_gs8` that launches all experiments using the `sbatch` command. 
+    * **Option-2 or 3**: If running locally, please launch each configuration manually within `mop_gs8_local` and ensure number of running experiments are less than number of cores at any given time (otherwise context switches can degrade performance).
 
 
 ## Collect Statistics
