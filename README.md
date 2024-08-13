@@ -61,7 +61,7 @@ Ensure that the compilation completes without error.
 
 ### Download Traces
 
-Please download traces from [Dropbox](https://www.dropbox.com/scl/fi/il9weggd1x0wae0s6b30a/traces.tar.gz?rlkey=dx27ime7p14gkjfh16xohk0ix&st=r5fuucmx&dl=0). After extracting the traces (`tar -cvzf traces.tar.gz`), place them in `pythia/traces/` directory. The structure should be as follows:
+Please download traces from [Dropbox](https://www.dropbox.com/scl/fi/qeh3rztdh4md76lhsm0u4/traces.tar.gz?rlkey=xq1yu8zithl497dnef1jpp0gv&st=r1iam07b&dl=0). After extracting the traces (`tar -cvzf traces.tar.gz`), place them in `pythia/traces/` directory. The structure should be as follows:
 
 ```
 pythia/traces/
