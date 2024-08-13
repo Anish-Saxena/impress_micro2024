@@ -134,7 +134,7 @@ Similar to the `slurm` option, we provide jobfiles that can launch experiments l
 
 3. Launch experiments. 
     * **Option-1**: We provide a helper script `launch_exps.sh` within `mop_gs8` that launches all experiments using the `sbatch` command. 
-    * **Option-2 or 3**: If running locally, please launch each configuration manually within `mop_gs8_local` and ensure number of running experiments are less than number of cores at any given time (otherwise context switches can degrade performance).
+    * **Option-2**: If running locally, please launch each configuration manually within `mop_gs8_local` and ensure number of running experiments are less than number of cores at any given time (otherwise context switches can degrade performance).
 
 
 ## Collect Statistics
