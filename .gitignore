@@ -74,3 +74,5 @@ pythia/*.err
 pythia/libbf/
 test_dramsim3/
 git_stuff/
+trace_set/
+traces.tar.gz

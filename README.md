@@ -8,27 +8,27 @@ This repository is part of the evaluation artifact for the [ImPress](https://arx
 
 ## Introduction
 
-Experiments in the ImPress paper are conducted using [ChampSim](https://github.com/ChampSim/ChampSim), a cycle-level multi-core simulator, interfaced with [DRAMSim3](https://github.com/umd-memsys/dramsim3), a detailed memory system simulator. The jobfile management is adapted from the infrastructure used in [pythia](https://github.com/CMU-SAFARI/pythia). 
+Experiments in the ImPress paper are conducted using [ChampSim](https://github.com/ChampSim/ChampSim), a cycle-level multi-core simulator, interfaced with [DRAMSim3](https://github.com/umd-memsys/dramsim3), a detailed memory system simulator. The jobfile management is adapted from the infrastructure used in [pythia](https://github.com/CMU-SAFARI/pythia).  This artifact enables recreation of motivation Figures 3 and 5 as well as key result Figure 13. 
 
 
 ## System Requirements
 
    - **SW Dependencies** 
-     - Tested with cmake v3.23.1, g++ v10.3.0, md5sum v8.22, perl v5.16.3, megatools 1.11.0, and Python XYZ.
+     - Tested with cmake v3.23.1, g++ v10.3.0, md5sum v8.22, perl v5.16.3, megatools 1.11.0, and Python 3.9.7.
    - **Benchmark Dependencies** 
-     - Publicly available ChampSim-compatible traces of SPEC2017, LIGRA, PARSEC, and CloudSuite workloads.
+     - ChampSim-compatible traces of SPEC2017 and STREAM workloads.
    - **HW Dependencies** 
      - A scale-out system like many-core server or HPC cluster.
      - Our experiments were performed on the [PACE](https://pace.gatech.edu) cluster at Georgia Tech.
-     - Most configurations run simulations for 26 workloads for about 6 hours on average (with one workload per core). 
-     - Overall, there are 31 configurations, requiring about 4,800 core-hours to replicate all results (aboutone day on four 64-core servers).
+     - Most configurations run simulations for 20 workloads for about 6 hours on average (with one workload per core). 
+     - Overall, there are 37 configurations, requiring about 4,400 core-hours to replicate all results (about three days on one 64-core server).
 
 ## Compilation Steps
 
 The expected directory structure is:
 
 ```
-base_impress_ae_directory
+impress_micro2024
 |-dramsim3
 |-champsim
 |-pythia
