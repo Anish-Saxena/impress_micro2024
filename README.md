@@ -4,7 +4,7 @@ This repository is part of the evaluation artifact for the [ImPress](https://arx
 
 **Acknowledgement:** This artifact and simulation infrastructure have been adapted from [START (HPCA'24)](https://github.com/Anish-Saxena/rowhammer_champsim).
 
-**NOTE:** GitHub repository is currently WIP. Please check back after 8/14.
+**NOTE:** Please proceed with launching experiments, we will update the repo with data collection and plotting scripts shortly.
 
 ## Introduction
 
@@ -139,6 +139,8 @@ Similar to the `slurm` option, we provide jobfiles that can launch experiments l
 
 ## Collect Statistics
 
+**NOTE:** WIP. Please check back.
+
 **Update 12/1/2023**
 
 We have added parsing scripts for remaining figures 9, 10, and 15. All figures are now reproduceable. 
@@ -154,6 +156,8 @@ We will add parsing scripts for remaining figures shortly.
 **Common Error:** If the parsing script (or the python script that is internally called) is unable to locate the relevant file, please ensure the paths traversed by the scripts are correct (especially all the `*_DIR` variables in bash scripts).
 
 ## Visualize Results and Recreate Figures
+
+**NOTE:** WIP. Please check back.
 
 **Update 11/30/2023**
 
