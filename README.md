@@ -189,6 +189,8 @@ The plotting notebook can be launched using `jupyter-notebook impress_graphs.ipy
 
 After the parsing script for a figure has been run, you can re-run the cell corresponding to that figure to recreate it.
 
+The graphs are displayed in the Jupyter notebook and stored in `pythia/graphs/stat_scripts/mop_gs8/outputs/` directory. The original plots are available at `pythia/graphs/stat_scripts/mop_gs8/outputs/original_plots/` directory. 
+
 **Note:** Figure 13 consists of 3 figures that are separately rendered by the Jupyter notebook. Please be sure to correlate the correct figures.
 
 **Common Error:** If there is a key error, please go to the relevant csv and ensure the column names are as expected by the plotting file. Sometimes, the delimiter variable can cause incorrect parsing by Pandas' csv reader, which can be mitigated by using `r'\s+'` as the regex-enabled delimiter. 
