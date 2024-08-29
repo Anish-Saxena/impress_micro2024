@@ -4,8 +4,6 @@ This repository is part of the evaluation artifact for the [ImPress](https://arx
 
 **Acknowledgement:** This artifact and simulation infrastructure have been adapted from [START (HPCA'24)](https://github.com/Anish-Saxena/rowhammer_champsim).
 
-**NOTE:** Please proceed with launching experiments, we will update the repo with data collection and plotting scripts shortly.
-
 ## Introduction
 
 Experiments in the ImPress paper are conducted using [ChampSim](https://github.com/ChampSim/ChampSim), a cycle-level multi-core simulator, interfaced with [DRAMSim3](https://github.com/umd-memsys/dramsim3), a detailed memory system simulator. The jobfile management is adapted from the infrastructure used in [pythia](https://github.com/CMU-SAFARI/pythia).  This artifact enables recreation of motivation Figures 3 and 5 as well as key result Figure 13. 
