@@ -1,8 +1,8 @@
 #!/bin/bash
 
-STAT_DIR="../../../experiments/all_figures/mop_gs8"
+STAT_DIR="../../../experiments/figures/mop_gs8/"
 CURR_DIR=`pwd`
-OUT_FILE="${CURR_DIR}/data/para_ip_$1.csv"
+OUT_FILE="${CURR_DIR}/data/para_ip.csv"
 
 cd ${STAT_DIR}/;
 
