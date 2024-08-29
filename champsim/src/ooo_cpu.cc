@@ -23,7 +23,7 @@
 #include "champsim.h"
 #include "instruction.h"
 
-#define DEADLOCK_CYCLE 1000000000ull
+#define DEADLOCK_CYCLE 1000000ull
 
 extern uint8_t warmup_complete[NUM_CPUS];
 extern uint8_t MAX_INSTR_DESTINATIONS;
