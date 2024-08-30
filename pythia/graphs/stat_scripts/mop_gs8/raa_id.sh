@@ -1,6 +1,6 @@
 #!/bin/bash
 
-STAT_DIR="../../../experiments/all_figures/mop_gs8"
+STAT_DIR="../../../experiments/figures/mop_gs8"
 CURR_DIR=`pwd`
 OUT_FILE="${CURR_DIR}/data/raa_id.csv"
 

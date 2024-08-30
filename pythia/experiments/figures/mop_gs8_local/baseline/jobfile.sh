@@ -99,7 +99,7 @@ cd ../
 mkdir -p ./classification_8T_base && cd ./classification_8T_base
 # $IMPRESS_AE_ROOT_DIR/champsim/bin/MOP_GS8/baseline --warmup_instructions=50000000 --simulation_instructions=200000000 -cs_traces=yyyyyyyy -traces $IMPRESS_AE_ROOT_DIR/pythia/traces/classification_phase1_core0.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/classification_phase1_core1.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/classification_phase1_core2.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/classification_phase1_core3.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/classification_phase1_core0.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/classification_phase1_core1.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/classification_phase1_core2.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/classification_phase1_core3.trace.xz   &
 cd ../
-mkdirmkdir -p ./cloud9_8T_base && cd ./cloud9_8T_base
+mkdir -p ./cloud9_8T_base && cd ./cloud9_8T_base
 # $IMPRESS_AE_ROOT_DIR/champsim/bin/MOP_GS8/baseline --warmup_instructions=50000000 --simulation_instructions=200000000 -cs_traces=yyyyyyyy -traces $IMPRESS_AE_ROOT_DIR/pythia/traces/cloud9_phase1_core0.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/cloud9_phase1_core1.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/cloud9_phase1_core2.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/cloud9_phase1_core3.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/cloud9_phase1_core0.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/cloud9_phase1_core1.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/cloud9_phase1_core2.trace.xz $IMPRESS_AE_ROOT_DIR/pythia/traces/cloud9_phase1_core3.trace.xz   &
 cd ../
 mkdir -p ./nutch_8T_base && cd ./nutch_8T_base
